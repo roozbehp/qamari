@@ -1,3 +1,16 @@
+1400/1 1979-11-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13580830.pdf
+1400/2 1979-12-21 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13581001.pdf
+1400/3 1980-01-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13581029.pdf
+1400/4 1980-02-18 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13581130.pdf
+1400/5 1980-03-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13581228.pdf
+1400/6 1980-04-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13590128.pdf
+1400/7 1980-05-16 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13590227.pdf
+1400/8 1980-06-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13590324.pdf
+1400/9 1980-07-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13590423.pdf
+1400/10 1980-08-12 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13590523.pdf
+1400/11 1980-09-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13590620.pdf
+1400/12 1980-10-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13590719.pdf
+
 1401/1 1980-11-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13590819.pdf
 1401/2 1980-12-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13590918.pdf
 1401/3 1981-01-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13591018.pdf
