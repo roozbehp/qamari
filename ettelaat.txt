@@ -1,0 +1,17 @@
+1401/1 1980-11-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13590819.pdf
+1401/2 1980-12-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13590918.pdf
+1401/3 1981-01-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13591018.pdf
+1401/4 1981-02-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13591118.pdf
+1401/5 1981-03-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13591217.pdf
+1401/6 1981-04-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13600117.pdf
+1401/7 1981-05-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13600216.pdf
+1401/8 1981-06-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13600314.pdf
+*1401/9 1981-07-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13600413.pdf says 1409/9/1 AH=1981-07-04, but dates on later newspapers in the month, eg https://commons.wikimedia.org/wiki/File:Ettelaat13600508.pdf, imply that the crescent was seen a day earlier and the 1360/4/13 AP newspaper header was not updated in time for printing
+1401/10 1981-08-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13600512.pdf
+1401/11 1981-08-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13600609.pdf
+1401/12 1981-09-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13600708.pdf
+1402/1 1981-10-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13600807.pdf
+1402/2 1981-11-28 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13600908.pdf
+1402/3 1981-12-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13601007.pdf
+1402/4 1982-01-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13601107.pdf
+1402/5 1982-02-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13601206.pdf
