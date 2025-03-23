@@ -1,3 +1,16 @@
+1398/1 1977-12-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13560921.pdf
+1398/2 1978-01-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13561021.pdf
+1398/3 1978-02-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13561120.pdf
+1398/4 1978-03-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13561220.pdf
+1398/5 1978-04-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13570120.pdf
+1398/6 1978-05-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13570219.pdf
+1398/7 1978-06-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13570317.pdf
+1398/8 1978-07-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13570417.pdf
+1398/9 1978-08-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13570515.pdf
+1398/10 1978-09-04 # Implied from mentions of Eid prayers in https://commons.wikimedia.org/wiki/File:Ettelaat13570614.pdf
+1398/11 1978-10-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13570712.pdf
+1398/12 1978-11-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13570811.pdf
+
 # 1399/1 ???? # Ettela'at was not published 1978-11-06 to 1979-01-05, so we don't have any dates for 1399/1
 1399/2 1978-12-31 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13571016.pdf
 1399/3 1979-01-30 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13571112.pdf
