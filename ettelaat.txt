@@ -1,3 +1,16 @@
+# 1399/1 ???? # Ettela'at was not published 1978-11-06 to 1979-01-05, so we don't have any dates for 1399/1
+1399/2 1978-12-31 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13571016.pdf
+1399/3 1979-01-30 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13571112.pdf
+1399/4 1979-02-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13571209.pdf
+1399/5 1979-03-30 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13580111.pdf
+1399/6 1979-04-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13580208.pdf
+1399/7 1979-05-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13580306.pdf
+1399/8 1979-06-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13580405.pdf
+1399/9 1979-07-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13580504.pdf
+1399/10 1979-08-24 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13580603.pdf
+1399/11 1979-09-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13580701.pdf
+1399/12 1979-10-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13580801.pdf
+
 1400/1 1979-11-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13580830.pdf
 1400/2 1979-12-21 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13581001.pdf
 1400/3 1980-01-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13581029.pdf
