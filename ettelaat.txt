@@ -7,7 +7,7 @@
 1395/7 1975-07-11 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13540421.pdf
 1395/8 1975-08-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13540518.pdf
 1395/9 1975-09-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13540617.pdf
-1395/10 1975-10-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13540716.pdf which mentions Eid prayers happening the say before
+1395/10 1975-10-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13540716.pdf which mentions Eid prayers happening the day before
 1395/11 1975-11-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13540814.pdf
 1395/12 1975-12-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13540913.pdf
 
