@@ -1,3 +1,16 @@
+1395/1 1975-01-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13531024.pdf
+1395/2 1975-02-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13531124.pdf
+1395/3 1975-03-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13531224.pdf
+1395/4 1975-04-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13540124.pdf
+1395/5 1975-05-13 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13540224.pdf
+1395/6 1975-06-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13540321.pdf
+1395/7 1975-07-11 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13540421.pdf
+1395/8 1975-08-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13540518.pdf
+1395/9 1975-09-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13540617.pdf
+1395/10 1975-10-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13540716.pdf which mentions Eid prayers happening the say before
+1395/11 1975-11-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13540814.pdf
+1395/12 1975-12-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13540913.pdf
+
 1396/1 1976-01-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13541013.pdf
 1396/2 1976-02-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13541113.pdf
 1396/3 1976-03-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13541212.pdf
