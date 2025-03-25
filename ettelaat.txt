@@ -1,3 +1,16 @@
+1382/1 1962-06-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13410314.pdf
+1382/2 1962-07-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13410413.pdf
+1382/3 1962-08-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13410513.pdf
+1382/4 1962-09-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13410610.pdf
+1382/5 1962-10-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13410709.pdf
+1382/6 1962-10-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13410808.pdf
+1382/7 1962-11-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13410908.pdf
+1382/8 1962-12-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13411008.pdf
+1382/9 1963-01-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13411107.pdf
+1382/10 1963-02-26 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13411208.pdf
+1382/11 1963-03-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13420108.pdf. Note that this contradicts https://commons.wikimedia.org/wiki/File:Ettelaat13420107.pdf but the rest of month agrees with our choice here.
+1382/12 1963-04-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13420205.pdf
+
 1383/1 1963-05-25 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13420305.pdf
 1383/2 1963-06-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13420402.pdf
 1383/3 1963-07-22 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13420501.pdf
