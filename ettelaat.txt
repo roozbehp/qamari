@@ -1,3 +1,16 @@
+1387/1 1967-04-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13460123.pdf
+1387/2 1967-05-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13460221.pdf
+1387/3 1967-06-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13460320.pdf
+1387/4 1967-07-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13460418.pdf
+1387/5 1967-08-08 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13460519.pdf
+1387/6 1967-09-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13460615.pdf
+1387/7 1967-10-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13460714.pdf
+1387/8 1967-11-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13460813.pdf
+1387/9 1967-12-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13460912.pdf
+1387/10 1968-01-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13461013.pdf
+1387/11 1968-01-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13461111.pdf
+1387/12 1968-03-01 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13461212.pdf
+
 1388/1 1968-03-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13470111.pdf
 1388/2 1968-04-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13470209.pdf
 1388/3 1968-05-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13470308.pdf
