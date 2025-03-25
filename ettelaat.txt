@@ -1,9 +1,22 @@
-1492/1 1972-02-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13501128.pdf
-1492/2 1972-03-17 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13501228.pdf
-1492/3 1972-04-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13510126.pdf
-1492/4 1972-05-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13510225.pdf
-1492/5 1972-06-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13510323.pdf
-1492/6 1972-07-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13510421.pdf
+1391/1 1971-02-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13491208.pdf
+1391/2 1971-03-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13500108.pdf
+1391/3 1971-04-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13500207.pdf
+1391/4 1971-05-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13500305.pdf
+1391/5 1971-06-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13500403.pdf
+1391/6 1971-07-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13500502.pdf
+1391/7 1971-08-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13500601.pdf
+1391/8 1971-09-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13500631.pdf
+1391/9 1971-10-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13500729.pdf
+1391/10 1971-11-20 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13500830.pdf
+1391/11 1971-12-20 # https://commons.wikimedia.org/wiki/File:Ettelaat13500929.pdf
+1391/12 1972-01-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13501028.pdf
+
+1392/1 1972-02-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13501128.pdf
+1392/2 1972-03-17 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13501228.pdf
+1392/3 1972-04-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13510126.pdf
+1392/4 1972-05-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13510225.pdf
+1392/5 1972-06-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13510323.pdf
+1392/6 1972-07-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13510421.pdf
 1392/7 1972-08-11 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13510521.pdf
 1392/8 1972-09-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13510619.pdf
 1392/9 1972-10-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13510717.pdf
