@@ -276,3 +276,8 @@
 1402/3 1981-12-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13601007.pdf
 1402/4 1982-01-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13601107.pdf
 1402/5 1982-02-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13601206.pdf
+1402/6 1982-03-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13610107.pdf
+1402/7 1982-04-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13610205.pdf
+1402/8 1982-05-25 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13610305.pdf
+1402/9 1982-06-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13610402.pdf
+1402/10 1982-07-22 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13610502.pdf
