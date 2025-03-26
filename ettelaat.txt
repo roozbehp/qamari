@@ -1,3 +1,16 @@
+1378/1 1958-07-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13370428.pdf
+1378/2 1958-08-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13370526.pdf
+1378/3 1958-09-15 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13370627.pdf
+1378/4 1958-10-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13370723.pdf
+1378/5 1958-11-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13370822.pdf
+1378/6 1958-12-12 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13370922.pdf
+1378/7 1959-01-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13371021.pdf
+1378/8 1959-02-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13371120.pdf
+1378/9 1959-03-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13371220.pdf
+*1378/10 1959-04-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13380119.pdf
+1378/11 1959-05-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13380219.pdf
+1378/12 1959-06-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13380317.pdf
+
 1379/1 1959-07-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13380416.pdf
 1379/2 1959-08-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13380516.pdf
 1379/3 1959-09-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13380613.pdf
