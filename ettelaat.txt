@@ -1,3 +1,16 @@
+1377/1 1957-07-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13360507.pdf
+1377/2 1957-08-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360606.pdf
+1377/3 1957-09-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13360704.pdf
+1377/4 1957-10-25 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360816.pdf. The first half of the month is full of typos.
+1377/5 1957-11-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13360902.pdf
+1377/6 1957-12-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13361002.pdf
+1377/7 1958-01-22 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13361112.pdf
+1377/8 1958-02-20 # https://commons.wikimedia.org/wiki/File:Ettelaat13361201.pdf
+1377/9 1958-03-22 # Implied from https://commons.wikimedia.org/wiki/Category:Ettela%27at,_1337_SH
+1377/10 1958-04-21 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13370202.pdf
+1377/11 1958-05-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13370231.pdf
+1377/12 1958-06-19 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13370331.pdf. This contradicts https://commons.wikimedia.org/wiki/File:Ettelaat13370329.pdf but the rest of the month agrees with our choice.
+
 1378/1 1958-07-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13370428.pdf
 1378/2 1958-08-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13370526.pdf
 1378/3 1958-09-15 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13370627.pdf
