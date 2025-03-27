@@ -334,7 +334,7 @@
 1402/9 1982-06-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13610402.pdf
 1402/10 1982-07-22 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13610502.pdf
 1402/11 1982-08-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13610530.pdf
-1402/12 1982-09-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13610628.pdf
+1402/12 1982-09-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13610628.pdf
 
 1403/1 1982-10-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13610727.pdf
 1403/2 1982-11-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13610826.pdf
@@ -352,9 +352,9 @@
 1404/1 1983-10-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13620716.pdf
 1404/2 1983-11-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13620816.pdf
 1404/3 1983-12-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13620915.pdf
-1404/4 1983-01-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13621015.pdf
-1404/5 1983-02-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13621115.pdf
-1404/6 1983-03-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13621215.pdf
+1404/4 1984-01-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13621015.pdf
+1404/5 1984-02-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13621115.pdf
+1404/6 1984-03-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13621215.pdf
 1404/7 1984-04-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13630114.pdf
 1404/8 1984-05-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13630213.pdf
 1404/9 1984-06-01 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13630312.pdf
