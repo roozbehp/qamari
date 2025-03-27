@@ -387,3 +387,16 @@
 1406/10 1986-06-09 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13650320.pdf
 1406/11 1986-07-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13650418.pdf
 1406/12 1986-08-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13650516.pdf
+
+1407/1 1986-09-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13650615.pdf
+1407/2 1986-10-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13650714.pdf
+1407/3 1986-11-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13650813.pdf
+1407/4 1986-12-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13650913.pdf
+1407/5 1987-01-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13651013.pdf
+1407/6 1987-01-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13651111.pdf
+1407/7 1987-03-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13651211.pdf
+1407/8 1987-03-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13660111.pdf
+1407/9 1987-04-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13660210.pdf
+1407/10 1987-05-29 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13660309.pdf
+1407/11 1987-06-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13660407.pdf
+1407/12 1987-07-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13660506.pdf
