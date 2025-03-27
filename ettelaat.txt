@@ -453,3 +453,16 @@
 1410/10 1990-04-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13690208.pdf
 1410/11 1990-05-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13690305.pdf
 1410/12 1990-06-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13690403.pdf
+
+1411/1 1990-07-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13690502.pdf
+1411/2 1990-08-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13690601.pdf
+1411/3 1990-09-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13690631.pdf
+1411/4 1990-10-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13690729.pdf
+1411/5 1990-11-20 # https://commons.wikimedia.org/wiki/File:Ettelaat13690829.pdf
+1411/6 1990-12-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13690928.pdf
+1411/7 1991-01-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13691028.pdf
+1411/8 1991-02-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13691127.pdf
+1411/9 1991-03-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13691227.pdf
+1411/10 1991-04-16 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13700131.pdf
+1411/11 1991-05-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13700226.pdf
+1411/12 1991-06-14 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13700325.pdf
