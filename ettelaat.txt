@@ -466,3 +466,16 @@
 1411/10 1991-04-16 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13700131.pdf
 1411/11 1991-05-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13700226.pdf
 1411/12 1991-06-14 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13700325.pdf
+
+1412/1 1991-07-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13700422.pdf
+1412/2 1991-08-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13700521.pdf
+1412/3 1991-09-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13700620.pdf
+1412/4 1991-10-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13700718.pdf
+1412/5 1991-11-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13700818.pdf
+1412/6 1991-12-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13700917.pdf
+1412/7 1992-01-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13701017.pdf
+1412/8 1992-02-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13701116.pdf
+1412/9 1992-03-06 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13701217.pdf
+1412/10 1992-04-04 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13710116.pdf
+1412/11 1992-05-04 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13710216.pdf. Note that this contradicts the newspapers published 1992-05-03 to 1992-05-05, but the rest of the month agrees with our choice.
+1412/12 1992-06-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13710313.pdf
