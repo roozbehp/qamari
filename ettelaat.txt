@@ -20,8 +20,22 @@
 1378/7 1959-01-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13371021.pdf
 1378/8 1959-02-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13371120.pdf
 1378/9 1959-03-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13371220.pdf
-*1378/10 1959-04-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13380119.pdf
-1378/11 1959-05-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13380219.pdf
+# The Shawwal of 1378 AH is very confusing in how the newspaper handles it:
+# First, on 1959-04-09, it announces that the Shawwal crescent has been seen by religious authorities and thus 1378/10/1 AH=Thu 1959-04-09.
+# In the same issue, it says that this is different from what calendar experts had computed,
+# and interviews Abbas Riazi Kermani, a calendar authority who says it would have been impossible to see the crescent.
+# The newspaper follows the reported observed crescent by religious authorities with renumbered Shawwal dates until 1378/10/7 AH=Wed 1959-04-15
+# (https://commons.wikimedia.org/wiki/File:Ettelaat13380125.pdf)
+# It then switches to the precomputed calendar on 1378/10/7 AH=Thu 1959-04-16 (https://commons.wikimedia.org/wiki/File:Ettelaat13380126.pdf),
+# and keeps it that way going forward!
+# It's very hard to decide which way to go for this month, especially because the precomputed calendar had both Ramadan and Shawwal as 30 days,
+# which means moving the beginning of Shawwal one day early would make it 31 days!
+# The solution would have been moving the beginning Dhu al-Qa'dah one day early too, but it seems that that hadn't happened,
+# at least not according to the newspaper.
+# To be safe, we are commenting out both Shawwal and Dhu al-Qa'dah and will try to find other sources,
+# since we don't want to make Shawwal of 1378 AH thirty-one days.
+# *1378/10 1959-04-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13380119.pdf
+# 1378/11 1959-05-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13380219.pdf
 1378/12 1959-06-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13380317.pdf
 
 1379/1 1959-07-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13380416.pdf
