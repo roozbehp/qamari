@@ -492,3 +492,16 @@
 1413/10 1993-03-24 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13720107.pdf
 1413/11 1993-04-23 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13720204.pdf
 1413/12 1993-05-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13720302.pdf
+
+1414/1 1993-06-22 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13720402.pdf
+1414/2 1993-07-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13720430.pdf
+1414/3 1993-08-20 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13720530.pdf
+1414/4 1993-09-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13720627.pdf
+1414/5 1993-10-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13720725.pdf
+1414/6 1993-11-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13720825.pdf
+1414/7 1993-12-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13720924.pdf
+1414/8 1994-01-14 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13721025.pdf
+1414/9 1994-02-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13721123.pdf
+1414/10 1994-03-13 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13721223.pdf
+1414/11 1994-04-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13730123.pdf
+1414/12 1994-05-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13730222.pdf
