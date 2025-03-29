@@ -545,3 +545,16 @@
 1416/10 1996-02-20 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-12.webp
 1416/11 1996-03-21 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-01.webp
 1416/12 1996-04-20 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-02.webp
+
+1417/1 1996-05-19 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-02.webp
+1417/2 1996-06-18 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-03.webp
+1417/3 1996-07-18 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-04.webp
+1417/4 1996-08-17 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-05.webp
+1417/5 1996-09-15 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-06.webp
+1417/6 1996-10-14 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-07.webp
+1417/7 1996-11-13 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-08.webp
+1417/8 1996-12-12 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-09.webp
+1417/9 1997-01-11 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-10.webp
+1417/10 1997-02-09 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-11.webp
+1417/11 1997-03-11 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-12.webp
+1417/12 1997-04-09 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1376-01.webp
