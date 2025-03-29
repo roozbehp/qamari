@@ -1,3 +1,16 @@
+1376/1 1956-08-08 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350518.pdf
+1376/2 1956-09-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350617.pdf
+1376/3 1956-10-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13350714.pdf
+1376/4 1956-11-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13350814.pdf
+1376/5 1956-12-04 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350914.pdf. This contradicts https://commons.wikimedia.org/wiki/File:Ettelaat13350913.pdf but the rest of the month agrees with our choice. 
+1376/6 1957-01-03 https://commons.wikimedia.org/wiki/File:Ettelaat13351013.pdf
+1376/7 1957-02-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13351113.pdf
+1376/8 1957-03-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13351212.pdf
+1376/9 1957-04-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360114.pdf
+1376/10 1957-05-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360214.pdf
+1376/11 1957-05-31 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360311.pdf
+1376/12 1957-06-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13360408.pdf
+
 1377/1 1957-07-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13360507.pdf
 1377/2 1957-08-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360606.pdf
 1377/3 1957-09-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13360704.pdf
