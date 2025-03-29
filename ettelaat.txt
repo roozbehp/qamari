@@ -532,3 +532,16 @@
 1415/10 1995-03-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13731213.pdf
 1415/11 1995-04-01 # Implied from https://web.archive.org/web/20250328223249if_/http://www.ketabettelaat.ir/dbm/1374/13740114.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-01.webp
 1415/12 1995-05-01 # https://web.archive.org/web/20250328223622if_/http://www.ketabettelaat.ir/dbm/1374/13740211.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-02.webp
+
+1416/1 1995-05-31 # https://web.archive.org/web/20250329110050if_/http://www.ketabettelaat.ir/dbm/1374/13740310.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-03.webp
+1416/2 1995-06-30 # Implied from https://web.archive.org/web/20250329110523if_/http://www.ketabettelaat.ir/dbm/1374/13740410.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-04.webp
+1416/3 1995-07-30 # https://web.archive.org/web/20250329111239if_/http://www.ketabettelaat.ir/dbm/1374/13740508.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-05.webp
+1416/4 1995-08-28 # https://web.archive.org/web/20250329111445if_/http://www.ketabettelaat.ir/dbm/1374/13740606.pdf and  https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-06.webp
+1416/5 1995-09-27 # https://web.archive.org/web/20250329111609if_/http://www.ketabettelaat.ir/dbm/1374/13740705.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-07.webp
+1416/6 1995-10-26 # https://web.archive.org/web/20250329112110if_/http://www.ketabettelaat.ir/dbm/1374/13740804.pdf and https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-08.webp
+1416/7 1995-11-24 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-09.webp
+1416/8 1995-12-24 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-10.webp
+1416/9 1996-01-22 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-11.webp
+1416/10 1996-02-20 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1374-12.webp
+1416/11 1996-03-21 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-01.webp
+1416/12 1996-04-20 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1375-02.webp
