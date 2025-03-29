@@ -1,4 +1,17 @@
 # اطلاعات
+1375/1 1955-08-20 # https://commons.wikimedia.org/wiki/File:Ettelaat13340528.pdf
+1375/2 1955-09-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13340626.pdf
+1375/3 1955-10-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13340725.pdf
+1375/4 1955-11-17 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13340826.pdf
+1375/5 1955-12-16 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13340925.pdf
+1375/6 1956-01-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13341024.pdf
+1375/7 1956-02-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13341124.pdf
+1375/8 1956-03-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13341223.pdf
+1375/9 1956-04-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13350124.pdf
+1375/10 1956-05-12 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350223.pdf
+1375/11 1956-06-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13350320.pdf
+1375/12 1956-07-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13350419.pdf
+
 1376/1 1956-08-08 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350518.pdf
 1376/2 1956-09-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350617.pdf
 1376/3 1956-10-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13350714.pdf
