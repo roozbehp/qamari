@@ -17,7 +17,7 @@
 1376/3 1956-10-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13350714.pdf
 1376/4 1956-11-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13350814.pdf
 1376/5 1956-12-04 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13350914.pdf. This contradicts https://commons.wikimedia.org/wiki/File:Ettelaat13350913.pdf but the rest of the month agrees with our choice. 
-1376/6 1957-01-03 https://commons.wikimedia.org/wiki/File:Ettelaat13351013.pdf
+1376/6 1957-01-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13351013.pdf
 1376/7 1957-02-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13351113.pdf
 1376/8 1957-03-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13351212.pdf
 1376/9 1957-04-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13360114.pdf
