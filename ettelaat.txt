@@ -610,3 +610,16 @@
 1420/10 2000-01-08 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-10.webp
 1420/11 2000-02-07 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-11.webp
 1420/12 2000-03-08 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-12.webp
+
+1421/1 2000-04-06 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-01.webp
+1421/2 2000-05-06 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-02.webp
+1421/3 2000-06-04 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-03.webp
+1421/4 2000-07-03 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-04.webp
+1421/5 2000-08-02 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-05.webp
+1421/6 2000-08-31 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-06.webp
+1421/7 2000-09-29 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-07.webp
+1421/8 2000-10-29 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-08.webp
+1421/9 2000-11-28 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-09.webp
+1421/10 2000-12-27 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-10.webp
+1421/11 2001-01-26 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-11.webp
+1421/12 2001-02-25 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-12.webp
