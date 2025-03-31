@@ -590,3 +590,10 @@
 1419/3 1998-06-26 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-04.webp
 1419/4 1998-07-25 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-05.webp
 1419/5 1998-08-24 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-06.webp
+1419/6 1998-09-22 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-06.webp
+1419/7 1998-10-22 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-07.webp
+1419/8 1998-11-21 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-08.webp
+1419/9 1998-12-20 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-09.webp and. https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-10.webp. For formal announcement, see page 2 of Ettela'at 1377/9/30 AP
+1419/10 1999-01-18 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-10.webp and Ettela'at 1377/10/29 AP
+1419/11 1999-02-17 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-11.webp
+1419/12 1999-03-19 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-01.webp. This contradicts https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-12.webp, specifically Ettela'at 1377/12/27 AP, but the rest of the month, except for that one day, agree with our decision.
