@@ -597,3 +597,16 @@
 1419/10 1999-01-18 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-10.webp and Ettela'at 1377/10/29 AP
 1419/11 1999-02-17 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-11.webp
 1419/12 1999-03-19 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-01.webp. This contradicts https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1377-12.webp, specifically Ettela'at 1377/12/27 AP, but the rest of the month, except for that one day, agree with our decision.
+
+1420/1 1999-04-18 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-01.webp
+1420/2 1999-05-17 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-02.webp
+1420/3 1999-06-15 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-03.webp
+1420/4 1999-07-15 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-04.webp
+1420/5 1999-08-13 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-05.webp
+1420/6 1999-09-12 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-06.webp
+1420/7 1999-10-11 #https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-07.webp
+1420/8 1999-11-10 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-08.webp
+1420/9 1999-12-10 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-09.webp
+1420/10 2000-01-08 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-10.webp
+1420/11 2000-02-07 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-11.webp
+1420/12 2000-03-08 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1378-12.webp
