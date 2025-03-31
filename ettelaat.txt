@@ -623,3 +623,18 @@
 1421/10 2000-12-27 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-10.webp
 1421/11 2001-01-26 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-11.webp
 1421/12 2001-02-25 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1379-12.webp
+
+1422/1 2001-03-27 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-01.webp
+1422/2 2001-04-25 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-02.webp
+1422/3 2001-05-25 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-03.webp
+1422/4 2001-06-23 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-04.webp
+1422/5 2001-07-22 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-04.webp
+1422/6 2001-08-21 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-05.webp
+1422/7 2001-09-19 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-06.webp
+1422/8 2001-10-18 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-07.webp
+1422/9 2001-11-17 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-08.webp
+1422/10 2001-12-16 # Implied from https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-09.webp
+1422/11 2002-01-15 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-10.webp. Ettela'at Mon 1380/10/24 AP has a typo.
+1422/12 2002-02-14 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-11.webp
+
+1423/1 2002-03-16 # https://commons.wikimedia.org/wiki/File:DatesOnEttelaat1380-12.webp
