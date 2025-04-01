@@ -59,9 +59,9 @@
 # which means moving the beginning of Shawwal one day early would make it 31 days!
 # The solution would have been moving the beginning Dhu al-Qa'dah one day early too, but it seems that that hadn't happened,
 # at least not according to the newspaper.
-# To be safe, we are commenting out both Shawwal and Dhu al-Qa'dah and will try to find other sources,
+# To be safe, we are commenting out Dhu al-Qa'dah and will try to find other sources,
 # since we don't want to make Shawwal of 1378 AH thirty-one days.
-# *1378/10 1959-04-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13380119.pdf
+*1378/10 1959-04-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13380119.pdf
 # 1378/11 1959-05-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13380219.pdf
 1378/12 1959-06-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13380317.pdf
 
