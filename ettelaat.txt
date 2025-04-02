@@ -1,4 +1,17 @@
 # اطلاعات
+1373/1 1953-09-11 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13320621.pdf
+1373/2 1953-10-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13320718.pdf
+1373/3 1953-11-09 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13320819.pdf
+1373/4 1953-12-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13320917.pdf
+1373/5 1954-01-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13321017.pdf
+1373/6 1954-02-05 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13321117.pdf
+1373/7 1954-03-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13321216.pdf
+1373/8 1954-04-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13330116.pdf
+1373/9 1954-05-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13330214.pdf
+1373/10 1954-06-03 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13330315.pdf
+1373/11 1954-07-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13330413.pdf
+1373/12 1954-08-01 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13330511.pdf
+
 1374/1 1954-08-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13330609.pdf
 1374/2 1954-09-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13330707.pdf
 1374/3 1954-10-29 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13330808.pdf
