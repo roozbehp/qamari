@@ -1,4 +1,21 @@
 # اطلاعات
+1344/12 1926-06-12 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13050419.pdf
+
+1345/1 1926-07-12 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13050419.pdf
+1345/2 1926-08-10 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13050520.pdf
+1345/3 1926-09-09 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13050619.pdf
+1345/4 1926-10-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13050716.pdf
+1345/5 1926-11-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13050815.pdf
+1345/6 1926-12-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13050915.pdf
+1345/7 1927-01-06 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13051018.pdf
+1345/8 1927-02-04 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13051115.pdf
+1345/9 1927-03-05 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13051214.pdf
+1345/10 1927-04-04 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13060115.pdf
+1345/11 1927-05-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13060212.pdf
+1345/12 1927-06-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13060310.pdf
+
+
+
 1368/1 1948-11-03 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13270827.pdf
 1368/2 1948-12-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13270913.pdf
 1368/3 1949-01-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13271011.pdf
