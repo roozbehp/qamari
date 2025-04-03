@@ -1,4 +1,17 @@
 # اطلاعات
+1368/1 1948-11-03 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13270827.pdf
+1368/2 1948-12-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13270913.pdf
+1368/3 1949-01-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13271011.pdf
+1368/4 1949-01-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13271111.pdf
+1368/5 1949-03-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13271211.pdf
+1368/6 1949-03-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13280111.pdf
+1368/7 1949-04-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13280210.pdf
+1368/8 1949-05-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13280309.pdf
+1368/9 1949-06-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13280407.pdf
+1368/10 1949-07-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13280506.pdf
+1368/11 1949-08-26 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13280605.pdf
+1368/12 1949-09-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13280702.pdf
+
 1369/1 1949-10-24 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13280803.pdf
 1369/2 1949-11-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13280901.pdf
 1369/3 1949-12-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13281001.pdf
