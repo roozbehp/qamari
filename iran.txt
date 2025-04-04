@@ -1,7 +1,7 @@
 # ایران
 1343/9 1925-03-26 # Implied from issue of Sun 1304/1/16 AP.
-1343/10 1924-04-25 # Implied from issue of Mon 1304/2/7 AP.
-1343/11 1924-05-24 # Implied from issue of Wed 1304/3/6 AP.
+1343/10 1925-04-25 # Implied from issue of Mon 1304/2/7 AP.
+1343/11 1925-05-24 # Implied from issue of Wed 1304/3/6 AP.
 1343/12 1925-06-23 # Implied from issue of Wed 1304/4/3 AP.
 1344/1 1925-07-23 # Implied from issue of Fri 1304/5/2 AP.
 1344/2 1925-08-21 # Implied from issue of Wed 1304/6/4 AP.
