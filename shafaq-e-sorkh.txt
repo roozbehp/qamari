@@ -1,0 +1,10 @@
+# شفق سرخ
+1344/5 1925-11-18 # Implied from issues of Thu 1304/8/28 and Mon 1304/9/23 AP.
+1344/6 1925-12-17 # Implied from issue of Fri 1304/9/27 AP.
+1344/7 1926-01-16 # Implied from issue of Sun 1304/10/27 AP.
+1344/8 1926-02-14 # Implied from issue of Mon 1304/11/26 AP.
+1344/9 1926-03-16 # Implied from issue of Thu 1304/12/27 AP.
+1344/10 1926-04-14 # Implied from issue of Fri 1305/1/26 AP.
+1344/11 1926-05-14 # Implied from issue of Mon 1305/2/26 AP.
+1344/12 1926-06-12 # Implied from issue of Wed 1305/3/25 AP.
+1345/1 1926-07-12 # Implied from issue of Wed 1305/4/22 AP.
