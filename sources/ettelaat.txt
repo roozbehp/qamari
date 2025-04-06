@@ -16,6 +16,19 @@
 
 
 
+1365/1 1945-12-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13240917.pdf
+1365/2 1946-01-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13241015.pdf
+1365/3 1946-02-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13241115.pdf
+1365/4 1946-03-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13241214.pdf
+1365/5 1946-04-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13250115.pdf
+1365/6 1946-05-03 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13250214.pdf
+1365/7 1946-06-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13250311.pdf
+1365/8 1946-07-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13250410.pdf
+1365/9 1946-07-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13250508.pdf
+1365/10 1946-08-29 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13250611.pdf
+1365/11 1946-09-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13250709.pdf
+1365/12 1946-10-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13250805.pdf
+
 1366/1 1946-11-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13250905.pdf
 1366/2 1946-12-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13251004.pdf
 1366/3 1947-01-24 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13251105.pdf
