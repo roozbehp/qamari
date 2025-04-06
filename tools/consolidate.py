@@ -57,7 +57,7 @@ def dump_database():
       hyear, hmonth = key
       gregorian = database[key]
       starred = key in starred_set
-      sources = ', '.join(source_data[key])
+      sources = ', '.join(sorted(source_data[key]))
       
       output_file.write("%s%d/%d %s # %s\n" % (
         "*" if starred else "",
