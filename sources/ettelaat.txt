@@ -16,6 +16,19 @@
 
 
 
+1367/1 1947-11-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13260823.pdf
+1367/2 1947-12-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13260923.pdf
+1367/3 1948-01-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13261022.pdf
+1367/4 1948-02-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13261122.pdf
+1367/5 1948-03-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13261222.pdf
+1367/6 1948-04-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13270122.pdf
+1367/7 1948-05-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13270221.pdf
+1367/8 1948-06-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13270319.pdf
+1367/9 1948-07-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13270417.pdf
+1367/10 1948-08-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13270517.pdf
+1367/11 1948-09-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13270614.pdf
+1367/12 1948-10-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13270713.pdf
+
 1368/1 1948-11-03 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13270827.pdf
 1368/2 1948-12-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13270913.pdf
 1368/3 1949-01-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13271011.pdf
