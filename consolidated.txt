@@ -912,7 +912,7 @@
 1343/12 1925-06-23 # iran, kooshesh, qanoon, tsybulsky
 1344/1 1925-07-23 # iran, iranshahr, kooshesh, qanoon, tsybulsky
 1344/2 1925-08-21 # iran, kooshesh, tsybulsky
-1344/3 1925-09-20 # iranshahr, kooshesh, qanoon, tsybulsky
+1344/3 1925-09-20 # iran, iranshahr, kooshesh, qanoon, tsybulsky
 1344/4 1925-10-19 # kooshesh, qanoon, tsybulsky
 1344/5 1925-11-18 # iran, khalq, kooshesh, shafaq-e-sorkh, tsybulsky
 1344/6 1925-12-17 # iran, khalq, setare-ye-iran, shafaq-e-sorkh, tsybulsky
@@ -1150,54 +1150,54 @@
 1363/10 1944-09-19 # tsybulsky
 1363/11 1944-10-19 # tsybulsky
 1363/12 1944-11-18 # tsybulsky
-1364/1 1944-12-17 # tsybulsky
-1364/2 1945-01-16 # tsybulsky
-1364/3 1945-02-15 # tsybulsky
-1364/4 1945-03-16 # tsybulsky
-1364/5 1945-04-14 # tsybulsky
-1364/6 1945-05-14 # tsybulsky
-1364/7 1945-06-12 # tsybulsky
-1364/8 1945-07-11 # tsybulsky
-1364/9 1945-08-10 # tsybulsky
-1364/10 1945-09-09 # tsybulsky
-1364/11 1945-10-08 # tsybulsky
-1364/12 1945-11-07 # tsybulsky
-1365/1 1945-12-07 # tsybulsky
-1365/2 1946-01-05 # tsybulsky
-1365/3 1946-02-04 # tsybulsky
-1365/4 1946-03-06 # tsybulsky
-1365/5 1946-04-04 # tsybulsky
-1365/6 1946-05-03 # tsybulsky
-1365/7 1946-06-01 # tsybulsky
-1365/8 1946-07-01 # tsybulsky
-1365/9 1946-07-30 # tsybulsky
-1365/10 1946-08-29 # tsybulsky
-1365/11 1946-09-27 # tsybulsky
-1365/12 1946-10-27 # tsybulsky
-1366/1 1946-11-26 # tsybulsky
-1366/2 1946-12-26 # tsybulsky
-1366/3 1947-01-24 # tsybulsky
-1366/4 1947-02-23 # tsybulsky
-1366/5 1947-03-24 # tsybulsky
-1366/6 1947-04-23 # tsybulsky
-1366/7 1947-05-22 # tsybulsky
-1366/8 1947-06-20 # tsybulsky
-1366/9 1947-07-20 # tsybulsky
-1366/10 1947-08-18 # tsybulsky
-1366/11 1947-09-16 # tsybulsky
-1366/12 1947-10-16 # tsybulsky
-1367/1 1947-11-15 # tsybulsky
-1367/2 1947-12-15 # tsybulsky
-1367/3 1948-01-14 # tsybulsky
-1367/4 1948-02-12 # tsybulsky
-1367/5 1948-03-13 # tsybulsky
-1367/6 1948-04-11 # tsybulsky
-1367/7 1948-05-11 # tsybulsky
-1367/8 1948-06-09 # tsybulsky
-1367/9 1948-07-08 # tsybulsky
-1367/10 1948-08-07 # tsybulsky
-1367/11 1948-09-05 # tsybulsky
-1367/12 1948-10-05 # tsybulsky
+1364/1 1944-12-17 # ettelaat, tsybulsky
+1364/2 1945-01-16 # ettelaat, tsybulsky
+1364/3 1945-02-14 # ettelaat
+1364/4 1945-03-16 # ettelaat, tsybulsky
+1364/5 1945-04-14 # ettelaat, tsybulsky
+1364/6 1945-05-13 # ettelaat
+1364/7 1945-06-12 # ettelaat, tsybulsky
+1364/8 1945-07-11 # ettelaat, tsybulsky
+1364/9 1945-08-10 # ettelaat, tsybulsky
+1364/10 1945-09-08 # ettelaat
+1364/11 1945-10-08 # ettelaat, tsybulsky
+1364/12 1945-11-07 # ettelaat, tsybulsky
+1365/1 1945-12-07 # ettelaat, tsybulsky
+1365/2 1946-01-05 # ettelaat, tsybulsky
+1365/3 1946-02-04 # ettelaat, tsybulsky
+1365/4 1946-03-05 # ettelaat
+1365/5 1946-04-04 # ettelaat, tsybulsky
+1365/6 1946-05-03 # ettelaat, tsybulsky
+1365/7 1946-06-01 # ettelaat, tsybulsky
+1365/8 1946-07-01 # ettelaat, tsybulsky
+1365/9 1946-07-30 # ettelaat, tsybulsky
+1365/10 1946-08-29 # ettelaat, tsybulsky
+1365/11 1946-09-27 # ettelaat, tsybulsky
+1365/12 1946-10-27 # ettelaat, tsybulsky
+1366/1 1946-11-26 # ettelaat, tsybulsky
+1366/2 1946-12-25 # ettelaat
+1366/3 1947-01-24 # ettelaat, tsybulsky
+1366/4 1947-02-23 # ettelaat, tsybulsky
+1366/5 1947-03-24 # ettelaat, tsybulsky
+1366/6 1947-04-23 # ettelaat, tsybulsky
+1366/7 1947-05-22 # ettelaat, tsybulsky
+1366/8 1947-06-20 # ettelaat, tsybulsky
+1366/9 1947-07-20 # ettelaat, tsybulsky
+1366/10 1947-08-18 # ettelaat, tsybulsky
+1366/11 1947-09-17 # ettelaat
+1366/12 1947-10-16 # ettelaat, tsybulsky
+1367/1 1947-11-15 # ettelaat, tsybulsky
+1367/2 1947-12-15 # ettelaat, tsybulsky
+1367/3 1948-01-13 # ettelaat
+1367/4 1948-02-12 # ettelaat, tsybulsky
+1367/5 1948-03-13 # ettelaat, tsybulsky
+1367/6 1948-04-11 # ettelaat, tsybulsky
+1367/7 1948-05-11 # ettelaat, tsybulsky
+1367/8 1948-06-09 # ettelaat, tsybulsky
+1367/9 1948-07-08 # ettelaat, tsybulsky
+1367/10 1948-08-07 # ettelaat, tsybulsky
+1367/11 1948-09-05 # ettelaat, tsybulsky
+1367/12 1948-10-05 # ettelaat, tsybulsky
 1368/1 1948-11-03 # ettelaat, tsybulsky
 1368/2 1948-12-03 # ettelaat, tsybulsky
 1368/3 1949-01-01 # ettelaat, tsybulsky
@@ -1326,9 +1326,9 @@
 1378/6 1958-12-12 # ettelaat, tsybulsky
 1378/7 1959-01-11 # ettelaat, tsybulsky
 1378/8 1959-02-09 # ettelaat, tsybulsky
-1378/9 1959-03-11 # ettelaat, peyk-e-iran, taraqqi, tsybulsky
-*1378/10 1959-04-09 # ettelaat, neda-ye-haq, peyk-e-iran
-1378/11 1959-05-09 # neda-ye-haq, peyk-e-iran
+1378/9 1959-03-11 # ettelaat, kayhan, peyk-e-iran, taraqqi, tsybulsky
+*1378/10 1959-04-09 # ettelaat, kayhan, neda-ye-haq, peyk-e-iran
+1378/11 1959-05-09 # kayhan, neda-ye-haq, peyk-e-iran
 1378/12 1959-06-08 # ettelaat, neda-ye-haq, taraqqi, tsybulsky
 1379/1 1959-07-08 # ettelaat, tsybulsky
 1379/2 1959-08-07 # ettelaat, tsybulsky
