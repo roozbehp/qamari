@@ -5,6 +5,7 @@
 1343/12 1925-06-23 # Implied from issue of Wed 1304/4/3 AP.
 1344/1 1925-07-23 # Implied from issue of Fri 1304/5/2 AP.
 1344/2 1925-08-21 # Implied from issue of Wed 1304/6/4 AP.
+1344/3 1925-09-20 # Issue of 1304/6/29 AP
 1344/5 1925-11-18 # Implied from issue of Tue 1304/9/24 AP.
 1344/6 1925-12-17 # Implied from issue of Tue 1304/10/1 AP.
 1344/7 1926-01-16 # Implied from issue of Thu 1304/11/1 AP.
