@@ -6,6 +6,7 @@ import glob
 import re
 import sys
 
+SOURCES_TO_SKIP = ['sources/tsybulsky.txt']
 GREG_RE = re.compile("^\d{4}-\d{2}-\d{2}$", re.ASCII)
 
 database = {}
@@ -67,6 +68,8 @@ def dump_database():
 
 
 for filename in glob.glob('sources/*.txt'):
+  if filename in SOURCES_TO_SKIP:
+    continue
   name = filename[filename.index('/')+1:-4]
   with open(filename, "rt") as source_file:
     for line in source_file:
