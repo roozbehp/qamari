@@ -2,6 +2,6 @@
 1343/11 1925-05-24 # Implied from issue of Tue 1304/3/26 AP
 1343/12 1925-06-23 # Issue of Tue 1304/4/2 AP.
 1344/1 1925-07-23 # Issue of Thu 1304/5/1 AP.
-# 1344/2 1925-08-22 # Implied from issue of Sun 1304/6/1 AP. Commented out since it disagrees with Iran and Kooshesh
+# 1344/2 1925-08-22 # Implied from issue of Sun 1304/6/1 AP. Commented out since it disagrees with Iran and Kooshesh. The rest of the month is also full of typos, although there are some issues that imply a 1925-08-21 start.
 1344/3 1925-09-20 # Implied from issue of Tue 1304/6/31 AP.
 1344/4 1925-10-19 # Implied from issues of Thu 1304/7/30 and Thu 1304/8/21 AP.
