@@ -16,6 +16,19 @@
 
 
 
+1363/1 1943-12-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13221007.pdf
+1363/2 1944-01-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13221106.pdf
+1363/3 1944-02-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13221206.pdf
+1363/4 1944-03-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13230106.pdf
+1363/5 1944-04-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13230205.pdf
+1363/6 1944-05-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13230303.pdf
+1363/7 1944-06-23 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13230403.pdf
+1363/8 1944-07-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13230431.pdf
+1363/9 1944-08-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13230530.pdf
+1363/10 1944-09-19 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13230629.pdf
+1363/11 1944-10-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13230727.pdf
+1363/12 1944-11-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13230827.pdf
+
 1364/1 1944-12-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13230926.pdf
 1364/2 1945-01-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13231026.pdf
 1364/3 1945-02-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13231125.pdf
