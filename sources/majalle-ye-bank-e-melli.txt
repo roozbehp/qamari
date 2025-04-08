@@ -1,0 +1,10 @@
+# مجلهٔ بانک ملی ایران
+# All data implied from the bank holiday list, in issue 62, Aban-Azar 1321 AP: https://commons.wikimedia.org/wiki/File:Iran_Holidays_1321_SH.png
+1361/3 1942-03-19
+1361/7 1942-07-15
+1361/8 1942-08-14
+1361/9 1942-09-13
+1361/10 1942-10-12
+1361/12 1942-12-10
+1362/1 1943-01-08
+1362/2 1943-02-07
