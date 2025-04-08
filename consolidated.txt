@@ -733,22 +733,22 @@
 1329/1 1911-01-03 # tsybulsky
 1329/2 1911-02-01 # tsybulsky
 1329/3 1911-03-03 # tsybulsky
-1329/4 1911-04-01 # tsybulsky
-1329/5 1911-04-30 # tsybulsky
-1329/6 1911-05-30 # tsybulsky
-1329/7 1911-06-28 # tsybulsky
-1329/8 1911-07-27 # tsybulsky
-1329/9 1911-08-26 # tsybulsky
-1329/10 1911-09-25 # tsybulsky
-1329/11 1911-10-24 # tsybulsky
+1329/4 1911-04-01 # rooznameh-ye-rasmi, tsybulsky
+1329/5 1911-04-30 # rooznameh-ye-rasmi, tsybulsky
+1329/6 1911-05-30 # rooznameh-ye-rasmi, tsybulsky
+1329/7 1911-06-28 # rooznameh-ye-rasmi, tsybulsky
+1329/8 1911-07-27 # rooznameh-ye-rasmi, tsybulsky
+1329/9 1911-08-26 # rooznameh-ye-rasmi, tsybulsky
+1329/10 1911-09-25 # rooznameh-ye-rasmi, tsybulsky
+1329/11 1911-10-24 # rooznameh-ye-rasmi, tsybulsky
 1329/12 1911-11-23 # tsybulsky
-1330/1 1911-12-23 # tsybulsky
+1330/1 1911-12-23 # rooznameh-ye-rasmi, tsybulsky
 1330/2 1912-01-21 # aftab, tsybulsky
-1330/3 1912-02-20 # tsybulsky
-1330/4 1912-03-21 # aftab, tsybulsky
-1330/5 1912-04-19 # tsybulsky
+1330/3 1912-02-20 # rooznameh-ye-rasmi, tsybulsky
+1330/4 1912-03-21 # aftab, rooznameh-ye-rasmi, tsybulsky
+1330/5 1912-04-19 # rooznameh-ye-rasmi, tsybulsky
 1330/6 1912-05-19 # tsybulsky
-1330/7 1912-06-17 # tsybulsky
+1330/7 1912-06-17 # rooznameh-ye-rasmi, tsybulsky
 1330/8 1912-07-16 # tsybulsky
 1330/9 1912-08-14 # tsybulsky
 1330/10 1912-09-13 # tsybulsky
@@ -1138,18 +1138,18 @@
 1362/10 1943-10-01 # tsybulsky
 1362/11 1943-10-31 # tsybulsky
 1362/12 1943-11-29 # tsybulsky
-1363/1 1943-12-29 # tsybulsky
-1363/2 1944-01-27 # tsybulsky
-1363/3 1944-02-26 # tsybulsky
-1363/4 1944-03-26 # tsybulsky
-1363/5 1944-04-25 # tsybulsky
-1363/6 1944-05-24 # tsybulsky
-1363/7 1944-06-22 # tsybulsky
-1363/8 1944-07-22 # tsybulsky
-1363/9 1944-08-21 # tsybulsky
-1363/10 1944-09-19 # tsybulsky
-1363/11 1944-10-19 # tsybulsky
-1363/12 1944-11-18 # tsybulsky
+1363/1 1943-12-29 # ettelaat, tsybulsky
+1363/2 1944-01-27 # ettelaat, tsybulsky
+1363/3 1944-02-26 # ettelaat, tsybulsky
+1363/4 1944-03-26 # ettelaat, tsybulsky
+1363/5 1944-04-25 # ettelaat, tsybulsky
+1363/6 1944-05-24 # ettelaat, tsybulsky
+1363/7 1944-06-23 # ettelaat
+1363/8 1944-07-22 # ettelaat, tsybulsky
+1363/9 1944-08-21 # ettelaat, tsybulsky
+1363/10 1944-09-19 # ettelaat, tsybulsky
+1363/11 1944-10-19 # ettelaat, tsybulsky
+1363/12 1944-11-18 # ettelaat, tsybulsky
 1364/1 1944-12-17 # ettelaat, tsybulsky
 1364/2 1945-01-16 # ettelaat, tsybulsky
 1364/3 1945-02-14 # ettelaat
