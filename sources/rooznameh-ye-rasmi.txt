@@ -1,0 +1,16 @@
+# روزنامهٔ رسمی دولت ایران
+1329/4 1911-04-01 # Implied from issue of Tue 1329/4/18 AH=28 Hamal
+1329/5 1911-04-30 # Issue of Sun 1329/5/1 AH=10 Sowr
+1329/6 1911-05-30 # Issue of Tue 1329/6/1 AH=9 Jowza
+1329/7 1911-06-28 # Implied from issue of Sun 1329/7/5 AH=10 Saratan
+1329/8 1911-07-27 # Issue of Thu 1329/8/1 AH=4 Asad
+1329/9 1911-08-26 # Implied from issue of Thu 1329/9/6 AH=9[sic?] Sonboleh
+1329/10 1911-09-25 # Implied from issue of Thu 1329/10/4 AH=5 Mizan
+1329/11 1911-10-24 # Implied from issue of Thu 1329/11/17 AH=16 Aqrab
+
+1330/1 1911-12-23 # Implied from issue of Mon 1330/1/3 AH=3 Jady 
+1330/3 1912-02-20 # Implied from issue of Thu 1330/3/24 AH=24[sic?] Hoot
+1330/4 1912-03-21 # Implied from issue of Thu 1330/4/8 AH=8[sic?] Hamal
+1330/5 1912-04-19 # Implied from issue of Tue 1330/5/5 AH=3[sic?] Sowr
+# 1330/6 Is inconsistent during the month so we are skipping it.
+1330/7 1912-06-17 # Implied from issue of Tue 1330/7/2 AH=28[sic?] Jowza
