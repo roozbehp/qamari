@@ -16,6 +16,16 @@
 
 
 
+1358/1 1939-02-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13171202.pdf
+1358/2 1939-03-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13180102.pdf
+1358/3 1939-04-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13180131.pdf
+1358/4 1939-05-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13180230.pdf
+1358/5 1939-06-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13180328.pdf
+1358/6 1939-07-19 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13180428.pdf
+1358/7 1939-08-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13180525.pdf
+
+# Ettela'at issues don't include AH dates for 1358/8 to 1360/4
+
 1360/5 1941-05-28 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13200327.pdf
 1360/6 1941-06-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13200406.pdf
 1360/7 1941-07-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13200504.pdf
