@@ -16,6 +16,19 @@
 
 
 
+1353/1 1934-04-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13130127.pdf
+1353/2 1934-05-15 # https://commons.wikimedia.org/wiki/File:Ettelaat13130225.pdf
+1353/3 1934-06-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13130324.pdf
+1353/4 1934-07-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13130423.pdf
+1353/5 1934-08-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13130522.pdf
+1353/6 1934-09-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13130620.pdf
+1353/7 1934-10-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13130719.pdf
+1353/8 1934-11-09 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13130819.pdf
+1353/9 1934-12-09 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13130919.pdf
+1353/10 1935-01-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13131018.pdf
+1353/11 1935-02-05 # https://commons.wikimedia.org/wiki/File:Ettelaat13131116.pdf
+1353/12 1935-03-07 # https://commons.wikimedia.org/wiki/File:Ettelaat13131216.pdf
+
 1354/1 1935-04-05 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13140116.pdf
 1354/2 1935-05-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13140213.pdf
 1354/3 1935-06-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13140312.pdf
