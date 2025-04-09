@@ -16,6 +16,19 @@
 
 
 
+1354/1 1935-04-05 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13140116.pdf
+1354/2 1935-05-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13140213.pdf
+1354/3 1935-06-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13140312.pdf
+1354/4 1935-07-03 # https://commons.wikimedia.org/wiki/File:Ettelaat13140411.pdf
+1354/5 1935-08-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13140511.pdf
+1354/6 1935-09-01 # https://commons.wikimedia.org/wiki/File:Ettelaat13140609.pdf. Confirmed by checking the rest of the month
+1354/7 1935-09-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13140707.pdf
+1354/8 1935-10-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13140807.pdf
+1354/9 1935-11-28 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13140908.pdf
+1354/10 1935-12-27 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13141006.pdf
+1354/11 1936-01-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13141105.pdf
+1354/12 1936-02-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13141204.pdf
+
 1355/1 1936-03-25 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13150109.pdf
 1355/2 1936-04-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13150203.pdf
 1355/3 1936-05-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13150301.pdf
