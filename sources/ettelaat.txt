@@ -16,6 +16,19 @@
 
 
 
+1357/1 1938-03-04 # https://commons.wikimedia.org/wiki/File:Ettelaat13161213.pdf
+1357/2 1938-04-02 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13170114.pdf
+1357/3 1938-05-02 # https://commons.wikimedia.org/wiki/File:Ettelaat13170212.pdf
+1357/4 1938-05-31 # https://commons.wikimedia.org/wiki/File:Ettelaat13170310.pdf
+1357/5 1938-06-30 # https://commons.wikimedia.org/wiki/File:Ettelaat13170409.pdf
+1357/6 1938-07-29 # https://commons.wikimedia.org/wiki/File:Ettelaat13170507.pdf
+1357/7 1938-08-28 # https://commons.wikimedia.org/wiki/File:Ettelaat13170606.pdf
+1357/8 1938-09-26 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13170706.pdf
+1357/9 1938-10-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13170803.pdf
+1357/10 1938-11-24 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13170905.pdf
+1357/11 1938-12-24 # https://commons.wikimedia.org/wiki/File:Ettelaat13171003.pdf
+1357/12 1939-01-22 # https://commons.wikimedia.org/wiki/File:Ettelaat13171102.pdf
+
 1358/1 1939-02-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13171202.pdf
 1358/2 1939-03-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13180102.pdf
 1358/3 1939-04-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13180131.pdf
