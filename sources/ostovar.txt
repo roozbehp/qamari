@@ -4,3 +4,9 @@
 1358/9 1939-10-15 # Implied from issue of Thu 1318/7/24 AP=1358/9/3 AH=1939-10-17
 1358/10 1939-11-13 # Implied from issue of Mon 1318/8/28 AP=1358/10/8 AH=1939-11-20
 1358/11 1939-12-13 # Implied from issue of Sun 1318/9/25 AP=1358/11/5 AH=1939-12-17
+1358/12 1940-01-11 # Implied from issue of Mon 1318/11/1 AP=1358/12/12 AH=1940-01-22
+1359/1 1940-02-10 # Implied from issue of Thu 1318/11/25 AP=1359/1/6 AH=1940-02-15
+1359/2 1940-03-11 # Implied from issue of Wed 1318/12/29 AP=1359/2/10 AH=1940-03-21
+1359/3 1940-04-10 # Implied from issue of Thu 1319/1/22 AP=1359/3/2 AH=1940-04-11
+1359/4 1940-05-09 # Implied from issue of Fri 1319/2/20 AP=1359/4/2 AH=1940-05-10
+1359/5 1940-06-08 # Implied from issues of Thu 1319/3/30 AP=1359/5/13 AH=1940-06-20 and 1319/4/11 AP=1359/5/25 AH=1940-07-02. Contradicts issue of Tue 1319/4/4 AP.
