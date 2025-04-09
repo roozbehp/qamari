@@ -16,6 +16,15 @@
 
 
 
+1360/5 1941-05-28 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13200327.pdf
+1360/6 1941-06-27 # https://commons.wikimedia.org/wiki/File:Ettelaat13200406.pdf
+1360/7 1941-07-26 # https://commons.wikimedia.org/wiki/File:Ettelaat13200504.pdf
+1360/8 1941-08-25 # https://commons.wikimedia.org/wiki/File:Ettelaat13200603.pdf
+1360/9 1941-09-23 # https://commons.wikimedia.org/wiki/File:Ettelaat13200701.pdf
+1360/10 1941-10-22 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13200801.pdf
+1360/11 1941-11-21 # https://commons.wikimedia.org/wiki/File:Ettelaat13200830.pdf
+1360/12 1941-12-20 # https://commons.wikimedia.org/wiki/File:Ettelaat13200929.pdf
+
 1361/1 1942-01-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13201029.pdf
 1361/2 1942-02-17 # https://commons.wikimedia.org/wiki/File:Ettelaat13201128.pdf
 1361/3 1942-03-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13201228.pdf
