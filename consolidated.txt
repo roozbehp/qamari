@@ -1018,83 +1018,83 @@
 1352/10 1934-01-17 # tsybulsky
 1352/11 1934-02-16 # tsybulsky
 1352/12 1934-03-17 # tsybulsky
-1353/1 1934-04-16 # tsybulsky
-1353/2 1934-05-15 # tsybulsky
-1353/3 1934-06-14 # tsybulsky
-1353/4 1934-07-14 # tsybulsky
-1353/5 1934-08-13 # tsybulsky
-1353/6 1934-09-11 # tsybulsky
-1353/7 1934-10-11 # tsybulsky
-1353/8 1934-11-09 # tsybulsky
-1353/9 1934-12-09 # tsybulsky
-1353/10 1935-01-07 # tsybulsky
-1353/11 1935-02-05 # tsybulsky
-1353/12 1935-03-07 # tsybulsky
-1354/1 1935-04-05 # tsybulsky
-1354/2 1935-05-04 # tsybulsky
-1354/3 1935-06-03 # tsybulsky
-1354/4 1935-07-02 # tsybulsky
-1354/5 1935-08-01 # tsybulsky
-1354/6 1935-08-31 # tsybulsky
-1354/7 1935-09-30 # tsybulsky
-1354/8 1935-10-30 # tsybulsky
-1354/9 1935-11-28 # tsybulsky
-1354/10 1935-12-27 # tsybulsky
-1354/11 1936-01-26 # tsybulsky
-1354/12 1936-02-24 # tsybulsky
-1355/1 1936-03-25 # tsybulsky
-1355/2 1936-04-23 # tsybulsky
-1355/3 1936-05-22 # tsybulsky
-1355/4 1936-06-21 # tsybulsky
-1355/5 1936-07-21 # tsybulsky
-1355/6 1936-08-19 # tsybulsky
-1355/7 1936-09-18 # tsybulsky
-1355/8 1936-10-18 # tsybulsky
-1355/9 1936-11-16 # tsybulsky
-1355/10 1936-12-16 # tsybulsky
-1355/11 1937-01-14 # tsybulsky
-1355/12 1937-02-13 # tsybulsky
-1356/1 1937-03-14 # tsybulsky
-1356/2 1937-04-13 # tsybulsky
-1356/3 1937-05-12 # tsybulsky
-1356/4 1937-06-10 # tsybulsky
-1356/5 1937-07-10 # tsybulsky
-1356/6 1937-08-09 # tsybulsky
-1356/7 1937-09-07 # tsybulsky
-1356/8 1937-10-07 # tsybulsky
-1356/9 1937-11-05 # tsybulsky
-1356/10 1937-12-05 # tsybulsky
-1356/11 1938-01-04 # tsybulsky
-1356/12 1938-02-02 # tsybulsky
-1357/1 1938-03-04 # tsybulsky
-1357/2 1938-04-02 # tsybulsky
-1357/3 1938-05-02 # tsybulsky
-1357/4 1938-05-31 # tsybulsky
-1357/5 1938-06-30 # tsybulsky
-1357/6 1938-07-29 # tsybulsky
-1357/7 1938-08-28 # tsybulsky
-1357/8 1938-09-26 # tsybulsky
-1357/9 1938-10-25 # tsybulsky
-1357/10 1938-11-24 # tsybulsky
-1357/11 1938-12-24 # tsybulsky
-1357/12 1939-01-22 # tsybulsky
+1353/1 1934-04-16 # ettelaat, tsybulsky
+1353/2 1934-05-15 # ettelaat, tsybulsky
+1353/3 1934-06-14 # ettelaat, tsybulsky
+1353/4 1934-07-14 # ettelaat, tsybulsky
+1353/5 1934-08-13 # ettelaat, tsybulsky
+1353/6 1934-09-11 # ettelaat, tsybulsky
+1353/7 1934-10-11 # ettelaat, tsybulsky
+1353/8 1934-11-09 # ettelaat, tsybulsky
+1353/9 1934-12-09 # ettelaat, tsybulsky
+1353/10 1935-01-07 # ettelaat, tsybulsky
+1353/11 1935-02-05 # ettelaat, tsybulsky
+1353/12 1935-03-07 # ettelaat, tsybulsky
+1354/1 1935-04-05 # ettelaat, tsybulsky
+1354/2 1935-05-04 # ettelaat, tsybulsky
+1354/3 1935-06-03 # ettelaat, tsybulsky
+1354/4 1935-07-03 # ettelaat
+1354/5 1935-08-02 # ettelaat
+1354/6 1935-09-01 # ettelaat
+1354/7 1935-09-30 # ettelaat, tsybulsky
+1354/8 1935-10-30 # ettelaat, tsybulsky
+1354/9 1935-11-28 # ettelaat, tsybulsky
+1354/10 1935-12-27 # ettelaat, tsybulsky
+1354/11 1936-01-26 # ettelaat, tsybulsky
+1354/12 1936-02-24 # ettelaat, tsybulsky
+1355/1 1936-03-25 # ettelaat, tsybulsky
+1355/2 1936-04-23 # ettelaat, tsybulsky
+1355/3 1936-05-22 # ettelaat, tsybulsky
+1355/4 1936-06-21 # ettelaat, tsybulsky
+1355/5 1936-07-21 # ettelaat, tsybulsky
+1355/6 1936-08-19 # ettelaat, tsybulsky
+1355/7 1936-09-18 # ettelaat, tsybulsky
+1355/8 1936-10-18 # ettelaat, tsybulsky
+1355/9 1936-11-16 # ettelaat, tsybulsky
+1355/10 1936-12-16 # ettelaat, tsybulsky
+1355/11 1937-01-14 # ettelaat, tsybulsky
+1355/12 1937-02-13 # ettelaat, tsybulsky
+1356/1 1937-03-14 # ettelaat, tsybulsky
+1356/2 1937-04-13 # ettelaat, tsybulsky
+1356/3 1937-05-12 # ettelaat, tsybulsky
+1356/4 1937-06-10 # ettelaat, tsybulsky
+1356/5 1937-07-10 # ettelaat, tsybulsky
+1356/6 1937-08-09 # ettelaat, tsybulsky
+1356/7 1937-09-07 # ettelaat, tsybulsky
+1356/8 1937-10-07 # ettelaat, tsybulsky
+1356/9 1937-11-05 # ettelaat, tsybulsky
+1356/10 1937-12-05 # ettelaat, tsybulsky
+1356/11 1938-01-04 # ettelaat, tsybulsky
+1356/12 1938-02-02 # ettelaat, tsybulsky
+1357/1 1938-03-04 # ettelaat, tsybulsky
+1357/2 1938-04-02 # ettelaat, tsybulsky
+1357/3 1938-05-02 # ettelaat, tsybulsky
+1357/4 1938-05-31 # ettelaat, tsybulsky
+1357/5 1938-06-30 # ettelaat, tsybulsky
+1357/6 1938-07-29 # ettelaat, tsybulsky
+1357/7 1938-08-28 # ettelaat, tsybulsky
+1357/8 1938-09-26 # ettelaat, tsybulsky
+1357/9 1938-10-25 # ettelaat, tsybulsky
+1357/10 1938-11-24 # ettelaat, tsybulsky
+1357/11 1938-12-24 # ettelaat, tsybulsky
+1357/12 1939-01-22 # ettelaat, tsybulsky
 1358/1 1939-02-21 # ettelaat, najmabadi, tsybulsky
 1358/2 1939-03-23 # ettelaat, najmabadi, tsybulsky
 1358/3 1939-04-21 # ettelaat, najmabadi, tsybulsky
 1358/4 1939-05-21 # ettelaat, najmabadi, tsybulsky
 1358/5 1939-06-19 # ettelaat, najmabadi, tsybulsky
 1358/6 1939-07-19 # ettelaat, najmabadi, tsybulsky
-1358/7 1939-08-17 # ettelaat, najmabadi, tsybulsky
-1358/8 1939-09-15 # najmabadi, tsybulsky
-1358/9 1939-10-15 # najmabadi, tsybulsky
-1358/10 1939-11-13 # najmabadi, tsybulsky
-1358/11 1939-12-13 # najmabadi, tsybulsky
-1358/12 1940-01-11 # najmabadi, tsybulsky
-1359/1 1940-02-10 # najmabadi, tsybulsky
-1359/2 1940-03-11 # najmabadi, tsybulsky
-1359/3 1940-04-10 # najmabadi, tsybulsky
-1359/4 1940-05-09 # najmabadi, tsybulsky
-1359/5 1940-06-08 # najmabadi, tsybulsky
+1358/7 1939-08-17 # ettelaat, najmabadi, ostovar, tsybulsky
+1358/8 1939-09-15 # najmabadi, ostovar, tsybulsky
+1358/9 1939-10-15 # bahar-e-iran, najmabadi, ostovar, tsybulsky
+1358/10 1939-11-13 # najmabadi, ostovar, tsybulsky
+1358/11 1939-12-13 # najmabadi, ostovar, tsybulsky
+1358/12 1940-01-11 # najmabadi, ostovar, tsybulsky
+1359/1 1940-02-10 # najmabadi, ostovar, tsybulsky
+1359/2 1940-03-11 # najmabadi, ostovar, tsybulsky
+1359/3 1940-04-10 # najmabadi, ostovar, tsybulsky
+1359/4 1940-05-09 # najmabadi, ostovar, tsybulsky
+1359/5 1940-06-08 # najmabadi, ostovar, tsybulsky
 1359/6 1940-07-07 # najmabadi, tsybulsky
 1359/7 1940-08-06 # najmabadi, tsybulsky
 1359/8 1940-09-04 # najmabadi, tsybulsky
@@ -1106,7 +1106,7 @@
 1360/2 1941-02-28 # najmabadi, tsybulsky
 1360/3 1941-03-30 # najmabadi, tsybulsky
 1360/4 1941-04-28 # najmabadi, tsybulsky
-1360/5 1941-05-28 # ettelaat, najmabadi, tsybulsky
+1360/5 1941-05-28 # ettelaat, khalij-e-iran, najmabadi, tsybulsky
 1360/6 1941-06-27 # ettelaat, najmabadi, tsybulsky
 1360/7 1941-07-26 # ettelaat, najmabadi, tsybulsky
 1360/8 1941-08-25 # ettelaat, najmabadi, tsybulsky
