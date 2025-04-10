@@ -497,19 +497,19 @@
 1309/5 1891-12-03 # tsybulsky
 1309/6 1892-01-02 # tsybulsky
 1309/7 1892-01-31 # tsybulsky
-1309/8 1892-03-01 # tsybulsky
-1309/9 1892-03-30 # tsybulsky
-1309/10 1892-04-28 # tsybulsky
-1309/11 1892-05-28 # tsybulsky
-1309/12 1892-06-26 # tsybulsky
-1310/1 1892-07-26 # tsybulsky
-1310/2 1892-08-24 # tsybulsky
-1310/3 1892-09-23 # tsybulsky
-1310/4 1892-10-23 # tsybulsky
-1310/5 1892-11-22 # tsybulsky
-1310/6 1892-12-21 # tsybulsky
-1310/7 1893-01-20 # tsybulsky
-1310/8 1893-02-18 # tsybulsky
+1309/8 1892-03-01 # eqbal, tsybulsky
+1309/9 1892-03-30 # eqbal, tsybulsky
+1309/10 1892-04-28 # eqbal, tsybulsky
+1309/11 1892-05-28 # eqbal, tsybulsky
+1309/12 1892-06-26 # eqbal, tsybulsky
+1310/1 1892-07-26 # eqbal, tsybulsky
+1310/2 1892-08-24 # eqbal, tsybulsky
+1310/3 1892-09-23 # eqbal, tsybulsky
+1310/4 1892-10-23 # eqbal, tsybulsky
+1310/5 1892-11-22 # eqbal, tsybulsky
+1310/6 1892-12-21 # eqbal, tsybulsky
+1310/7 1893-01-20 # eqbal, tsybulsky
+1310/8 1893-02-18 # eqbal, tsybulsky
 1310/9 1893-03-20 # tsybulsky
 1310/10 1893-04-18 # tsybulsky
 1310/11 1893-05-17 # tsybulsky
