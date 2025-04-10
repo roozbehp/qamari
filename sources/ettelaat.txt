@@ -33,7 +33,7 @@
 1347/4 1928-09-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13070625.pdf
 1347/5 1928-10-16 # https://commons.wikimedia.org/wiki/File:Ettelaat13070724.pdf
 1347/6 1928-11-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13070823.pdf
-1347/7 1928-12-15 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13070924.pdf
+1347/7 1928-12-14 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13070924.pdf
 1347/8 1929-01-13 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13071026.pdf
 1347/9 1929-02-11 # https://commons.wikimedia.org/wiki/File:Ettelaat13071122.pdf
 1347/10 1929-03-13 # https://commons.wikimedia.org/wiki/File:Ettelaat13071223.pdf
