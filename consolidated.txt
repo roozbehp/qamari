@@ -934,90 +934,90 @@
 1345/10 1927-04-04 # ettelaat, tsybulsky
 1345/11 1927-05-03 # ettelaat, tsybulsky
 1345/12 1927-06-01 # ettelaat, tsybulsky
-1346/1 1927-07-01 # tsybulsky
-1346/2 1927-07-30 # tsybulsky
-1346/3 1927-08-29 # tsybulsky
-1346/4 1927-09-28 # tsybulsky
-1346/5 1927-10-27 # tsybulsky
-1346/6 1927-11-26 # tsybulsky
-1346/7 1927-12-26 # tsybulsky
-1346/8 1928-01-25 # tsybulsky
-1346/9 1928-02-23 # tsybulsky
-1346/10 1928-03-23 # tsybulsky
-1346/11 1928-04-22 # tsybulsky
-1346/12 1928-05-21 # tsybulsky
-1347/1 1928-06-19 # tsybulsky
-1347/2 1928-07-19 # tsybulsky
-1347/3 1928-08-17 # tsybulsky
-1347/4 1928-09-16 # tsybulsky
-1347/5 1928-10-16 # tsybulsky
-1347/6 1928-11-14 # tsybulsky
-1347/7 1928-12-14 # tsybulsky
-1347/8 1929-01-13 # tsybulsky
-1347/9 1929-02-11 # tsybulsky
-1347/10 1929-03-13 # tsybulsky
-1347/11 1929-04-11 # tsybulsky
-1347/12 1929-05-11 # tsybulsky
-1348/1 1929-06-09 # tsybulsky
-1348/2 1929-07-08 # tsybulsky
-1348/3 1929-08-07 # tsybulsky
-1348/4 1929-09-05 # tsybulsky
-1348/5 1929-10-05 # tsybulsky
-1348/6 1929-11-04 # tsybulsky
-1348/7 1929-12-03 # tsybulsky
-1348/8 1930-01-02 # tsybulsky
-1348/9 1930-02-01 # tsybulsky
-1348/10 1930-03-02 # tsybulsky
-1348/11 1930-04-01 # tsybulsky
-1348/12 1930-04-30 # tsybulsky
-1349/1 1930-05-30 # tsybulsky
-1349/2 1930-06-28 # tsybulsky
-1349/3 1930-07-27 # tsybulsky
-1349/4 1930-08-26 # tsybulsky
-1349/5 1930-09-24 # tsybulsky
-1349/6 1930-10-24 # tsybulsky
-1349/7 1930-11-23 # tsybulsky
-1349/8 1930-12-22 # tsybulsky
-1349/9 1931-01-21 # tsybulsky
-1349/10 1931-02-19 # tsybulsky
-1349/11 1931-03-21 # tsybulsky
-1349/12 1931-04-20 # tsybulsky
-1350/1 1931-05-19 # tsybulsky
-1350/2 1931-06-18 # tsybulsky
-1350/3 1931-07-17 # tsybulsky
-1350/4 1931-08-15 # tsybulsky
-1350/5 1931-09-14 # tsybulsky
-1350/6 1931-10-13 # tsybulsky
-1350/7 1931-11-12 # tsybulsky
-1350/8 1931-12-11 # tsybulsky
-1350/9 1932-01-10 # tsybulsky
-1350/10 1932-02-08 # tsybulsky
-1350/11 1932-03-09 # tsybulsky
-1350/12 1932-04-08 # tsybulsky
-1351/1 1932-05-07 # tsybulsky
-1351/2 1932-06-06 # tsybulsky
-1351/3 1932-07-06 # tsybulsky
-1351/4 1932-08-04 # tsybulsky
-1351/5 1932-09-03 # tsybulsky
-1351/6 1932-10-02 # tsybulsky
-1351/7 1932-11-01 # tsybulsky
-1351/8 1932-11-30 # tsybulsky
-1351/9 1932-12-29 # tsybulsky
-1351/10 1933-01-28 # tsybulsky
-1351/11 1933-02-26 # tsybulsky
-1351/12 1933-03-28 # tsybulsky
-1352/1 1933-04-26 # tsybulsky
-1352/2 1933-05-26 # tsybulsky
-1352/3 1933-06-25 # tsybulsky
-1352/4 1933-07-24 # tsybulsky
-1352/5 1933-08-23 # tsybulsky
-1352/6 1933-09-22 # tsybulsky
-1352/7 1933-10-21 # tsybulsky
-1352/8 1933-11-20 # tsybulsky
-1352/9 1933-12-19 # tsybulsky
-1352/10 1934-01-17 # tsybulsky
-1352/11 1934-02-16 # tsybulsky
-1352/12 1934-03-17 # tsybulsky
+1346/1 1927-07-01 # ettelaat, tsybulsky
+1346/2 1927-07-30 # ettelaat, tsybulsky
+1346/3 1927-08-29 # ettelaat, tsybulsky
+1346/4 1927-09-28 # ettelaat, tsybulsky
+1346/5 1927-10-27 # ettelaat, tsybulsky
+1346/6 1927-11-26 # ettelaat, tsybulsky
+1346/7 1927-12-26 # ettelaat, tsybulsky
+1346/8 1928-01-25 # ettelaat, tsybulsky
+1346/9 1928-02-23 # ettelaat, tsybulsky
+1346/10 1928-03-23 # ettelaat, tsybulsky
+1346/11 1928-04-22 # ettelaat, tsybulsky
+1346/12 1928-05-21 # ettelaat, tsybulsky
+1347/1 1928-06-19 # ettelaat, tsybulsky
+1347/2 1928-07-19 # ettelaat, tsybulsky
+1347/3 1928-08-17 # ettelaat, tsybulsky
+1347/4 1928-09-16 # ettelaat, tsybulsky
+1347/5 1928-10-16 # ettelaat, tsybulsky
+1347/6 1928-11-14 # ettelaat, tsybulsky
+1347/7 1928-12-14 # ettelaat, tsybulsky
+1347/8 1929-01-13 # ettelaat, tsybulsky
+1347/9 1929-02-11 # ettelaat, tsybulsky
+1347/10 1929-03-13 # ettelaat, tsybulsky
+1347/11 1929-04-11 # ettelaat, tsybulsky
+1347/12 1929-05-11 # ettelaat, tsybulsky
+1348/1 1929-06-09 # ettelaat, tsybulsky
+1348/2 1929-07-08 # ettelaat, tsybulsky
+1348/3 1929-08-07 # ettelaat, tsybulsky
+1348/4 1929-09-05 # ettelaat, tsybulsky
+1348/5 1929-10-05 # ettelaat, tsybulsky
+1348/6 1929-11-04 # ettelaat, tsybulsky
+1348/7 1929-12-03 # ettelaat, tsybulsky
+1348/8 1930-01-02 # ettelaat, tsybulsky
+1348/9 1930-02-01 # ettelaat, tsybulsky
+1348/10 1930-03-02 # ettelaat, tsybulsky
+1348/11 1930-04-01 # ettelaat, tsybulsky
+1348/12 1930-04-30 # ettelaat, tsybulsky
+1349/1 1930-05-30 # ettelaat, tsybulsky
+1349/2 1930-06-28 # ettelaat, tsybulsky
+1349/3 1930-07-27 # ettelaat, tsybulsky
+1349/4 1930-08-26 # ettelaat, tsybulsky
+1349/5 1930-09-24 # ettelaat, tsybulsky
+1349/6 1930-10-24 # ettelaat, tsybulsky
+1349/7 1930-11-22 # ettelaat
+1349/8 1930-12-22 # ettelaat, tsybulsky
+1349/9 1931-01-21 # ettelaat, tsybulsky
+1349/10 1931-02-19 # ettelaat, tsybulsky
+1349/11 1931-03-21 # ettelaat, tsybulsky
+1349/12 1931-04-20 # ettelaat, tsybulsky
+1350/1 1931-05-19 # ettelaat, tsybulsky
+1350/2 1931-06-18 # ettelaat, tsybulsky
+1350/3 1931-07-17 # ettelaat, tsybulsky
+1350/4 1931-08-15 # ettelaat, tsybulsky
+1350/5 1931-09-14 # ettelaat, tsybulsky
+1350/6 1931-10-14 # ettelaat
+1350/7 1931-11-12 # ettelaat, tsybulsky
+1350/8 1931-12-11 # ettelaat, tsybulsky
+1350/9 1932-01-10 # ettelaat, tsybulsky
+1350/10 1932-02-08 # ettelaat, tsybulsky
+1350/11 1932-03-09 # ettelaat, tsybulsky
+1350/12 1932-04-08 # ettelaat, tsybulsky
+1351/1 1932-05-07 # ettelaat, tsybulsky
+1351/2 1932-06-06 # ettelaat, tsybulsky
+1351/3 1932-07-06 # ettelaat, tsybulsky
+1351/4 1932-08-04 # ettelaat, tsybulsky
+1351/5 1932-09-03 # ettelaat, tsybulsky
+1351/6 1932-10-02 # ettelaat, tsybulsky
+1351/7 1932-11-01 # ettelaat, tsybulsky
+1351/8 1932-11-30 # ettelaat, tsybulsky
+1351/9 1932-12-29 # ettelaat, tsybulsky
+1351/10 1933-01-28 # ettelaat, tsybulsky
+1351/11 1933-02-26 # ettelaat, tsybulsky
+1351/12 1933-03-28 # ettelaat, tsybulsky
+1352/1 1933-04-26 # ettelaat, tsybulsky
+1352/2 1933-05-26 # ettelaat, tsybulsky
+1352/3 1933-06-25 # ettelaat, tsybulsky
+1352/4 1933-07-24 # ettelaat, tsybulsky
+1352/5 1933-08-23 # ettelaat, tsybulsky
+1352/6 1933-09-22 # ettelaat, tsybulsky
+1352/7 1933-10-22 # ettelaat
+1352/8 1933-11-20 # ettelaat, tsybulsky
+1352/9 1933-12-19 # ettelaat, tsybulsky
+1352/10 1934-01-17 # ettelaat, tsybulsky
+1352/11 1934-02-16 # ettelaat, tsybulsky
+1352/12 1934-03-17 # ettelaat, tsybulsky
 1353/1 1934-04-16 # ettelaat, tsybulsky
 1353/2 1934-05-15 # ettelaat, tsybulsky
 1353/3 1934-06-14 # ettelaat, tsybulsky
