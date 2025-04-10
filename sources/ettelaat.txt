@@ -16,6 +16,19 @@
 
 
 
+1350/1 1931-05-19 # https://commons.wikimedia.org/wiki/File:Ettelaat13100228.pdf
+1350/2 1931-06-18 # https://commons.wikimedia.org/wiki/File:Ettelaat13100327.pdf
+1350/3 1931-07-17 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13100426.pdf
+1350/4 1931-08-15 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13100524.pdf. Conflicts with https://commons.wikimedia.org/wiki/File:Ettelaat13100523.pdf, but the rest of the month agrees with our decision.
+1350/5 1931-09-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13100622.pdf
+1350/6 1931-10-14 # https://commons.wikimedia.org/wiki/File:Ettelaat13100721.pdf
+1350/7 1931-11-12 # https://commons.wikimedia.org/wiki/File:Ettelaat13100820.pdf
+1350/8 1931-12-11 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13100920.pdf
+1350/9 1932-01-10 # https://commons.wikimedia.org/wiki/File:Ettelaat13101019.pdf
+1350/10 1932-02-08 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13101119.pdf
+1350/11 1932-03-09 # https://commons.wikimedia.org/wiki/File:Ettelaat13101218.pdf
+1350/12 1932-04-08 # https://commons.wikimedia.org/wiki/File:Ettelaat13110120.pdf
+
 1351/1 1932-05-07 # Implied from https://commons.wikimedia.org/wiki/File:Ettelaat13110218.pdf
 1351/2 1932-06-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13110316.pdf
 1351/3 1932-07-06 # https://commons.wikimedia.org/wiki/File:Ettelaat13110415.pdf
