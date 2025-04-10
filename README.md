@@ -1,4 +1,4 @@
-This project documents the use of the Hijri/Islamic (AH) calendar in Iran over the years.  It is intended for historically accurate date conversion, as well as comparing astronomical predictions with what actually happened on the ground.
+This project documents the use of the Lunar Hijri/Islamic (AH) calendar in Iran over the years.  It is intended for historically accurate date conversion, as well as comparing astronomical predictions with what actually happened on the ground.
 
 The starting day of each AH month we have found in any reliable source is listed with the Gregorian equivalent. Since not all sources agree, best efforts have been made to resolve conflicts and provide the most reliable resolution.
 
