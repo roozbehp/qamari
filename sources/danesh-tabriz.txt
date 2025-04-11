@@ -1,0 +1,10 @@
+# دانش (تبریز)
+1299/7 1882-05-19 # Implied from https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-06-10.pdf
+1299/8 1882-06-18 # Implied from https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-06-24.pdf
+1299/9 1882-07-17 # https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-07-17.pdf
+1299/10 1882-08-16 # https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-08-16.pdf
+1299/11 1882-09-15 # Implied from https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-09-30.pdf
+1299/12 1882-10-15 # https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-10-15.pdf
+
+1300/1 1882-11-13 # https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-11-13.pdf
+1300/2 1882-12-12 # https://commons.wikimedia.org/wiki/File:Danesh_Tabriz_1882-12-12.pdf
