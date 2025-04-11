@@ -29,7 +29,7 @@
 
 1354/4 1935-07-03
 1354/5 1935-08-02
-1354/6 1935-08-31
+# 1354/6 1935-08-31 # Commented out since it contradicts Ettela'at
 
 1358/8 1939-09-15
 1358/9 1939-10-15
@@ -86,8 +86,8 @@
 1377/11 1958-05-21
 
 1378/9 1959-03-11
-1378/10 1959-04-10
-1378/11 1959-05-10
+# 1378/10 1959-04-10 # Commented out since it contradicts several sources
+# 1378/11 1959-05-10 # Commented out since it contradicts some sources
 1378/12 1959-06-08
 
 1380/10 1961-03-18
