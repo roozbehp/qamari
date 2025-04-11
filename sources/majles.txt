@@ -1,0 +1,5 @@
+# مجلس
+1324/10 1906-11-18 # Implied from https://commons.wikimedia.org/wiki/File:Majles_Issue_01.pdf
+1324/11 1906-12-17 # https://commons.wikimedia.org/wiki/File:Majles_Issue_13.pdf
+1324/12 1907-01-16 # https://commons.wikimedia.org/wiki/File:Majles_Issue_28.pdf
+# The rest of the issues don't mention the day of the week, so we won't rely on them.
