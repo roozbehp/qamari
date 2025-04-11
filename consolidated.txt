@@ -970,30 +970,30 @@
 1348/10 1930-03-02 # ettelaat, tsybulsky
 1348/11 1930-04-01 # ettelaat, tsybulsky
 1348/12 1930-04-30 # ettelaat, tsybulsky
-1349/1 1930-05-30 # ettelaat, tsybulsky
-1349/2 1930-06-28 # ettelaat, tsybulsky
-1349/3 1930-07-27 # ettelaat, tsybulsky
-1349/4 1930-08-26 # ettelaat, tsybulsky
-1349/5 1930-09-24 # ettelaat, tsybulsky
-1349/6 1930-10-24 # ettelaat, tsybulsky
-1349/7 1930-11-22 # ettelaat
-1349/8 1930-12-22 # ettelaat, tsybulsky
-1349/9 1931-01-21 # ettelaat, tsybulsky
-1349/10 1931-02-19 # ettelaat, tsybulsky
-1349/11 1931-03-21 # ettelaat, tsybulsky
-1349/12 1931-04-20 # ettelaat, tsybulsky
-1350/1 1931-05-19 # ettelaat, tsybulsky
-1350/2 1931-06-18 # ettelaat, tsybulsky
-1350/3 1931-07-17 # ettelaat, tsybulsky
-1350/4 1931-08-15 # ettelaat, tsybulsky
-1350/5 1931-09-14 # ettelaat, tsybulsky
-1350/6 1931-10-14 # ettelaat
-1350/7 1931-11-12 # ettelaat, tsybulsky
-1350/8 1931-12-11 # ettelaat, tsybulsky
-1350/9 1932-01-10 # ettelaat, tsybulsky
-1350/10 1932-02-08 # ettelaat, tsybulsky
-1350/11 1932-03-09 # ettelaat, tsybulsky
-1350/12 1932-04-08 # ettelaat, tsybulsky
+1349/1 1930-05-30 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/2 1930-06-28 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/3 1930-07-27 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/4 1930-08-26 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/5 1930-09-24 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/6 1930-10-24 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/7 1930-11-22 # ettelaat, tatbiq-e-taqavim
+1349/8 1930-12-22 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/9 1931-01-21 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/10 1931-02-19 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/11 1931-03-21 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1349/12 1931-04-20 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/1 1931-05-19 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/2 1931-06-18 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/3 1931-07-17 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/4 1931-08-15 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/5 1931-09-14 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/6 1931-10-14 # ettelaat, tatbiq-e-taqavim
+1350/7 1931-11-12 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/8 1931-12-11 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/9 1932-01-10 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/10 1932-02-08 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/11 1932-03-09 # ettelaat, tatbiq-e-taqavim, tsybulsky
+1350/12 1932-04-08 # ettelaat, tatbiq-e-taqavim, tsybulsky
 1351/1 1932-05-07 # ettelaat, tsybulsky
 1351/2 1932-06-06 # ettelaat, tsybulsky
 1351/3 1932-07-06 # ettelaat, tsybulsky
@@ -1012,7 +1012,7 @@
 1352/4 1933-07-24 # ettelaat, tsybulsky
 1352/5 1933-08-23 # ettelaat, tsybulsky
 1352/6 1933-09-22 # ettelaat, tsybulsky
-1352/7 1933-10-22 # ettelaat
+1352/7 1933-10-22 # ettelaat, tatbiq-e-taqavim
 1352/8 1933-11-20 # ettelaat, tsybulsky
 1352/9 1933-12-19 # ettelaat, tsybulsky
 1352/10 1934-01-17 # ettelaat, tsybulsky
@@ -1033,8 +1033,8 @@
 1354/1 1935-04-05 # ettelaat, tsybulsky
 1354/2 1935-05-04 # ettelaat, tsybulsky
 1354/3 1935-06-03 # ettelaat, tsybulsky
-1354/4 1935-07-03 # ettelaat
-1354/5 1935-08-02 # ettelaat
+1354/4 1935-07-03 # ettelaat, tatbiq-e-taqavim
+1354/5 1935-08-02 # ettelaat, tatbiq-e-taqavim
 1354/6 1935-09-01 # ettelaat
 1354/7 1935-09-30 # ettelaat, tsybulsky
 1354/8 1935-10-30 # ettelaat, tsybulsky
@@ -1085,27 +1085,27 @@
 1358/5 1939-06-19 # ettelaat, najmabadi, tsybulsky
 1358/6 1939-07-19 # ettelaat, najmabadi, tsybulsky
 1358/7 1939-08-17 # ettelaat, najmabadi, ostovar, tsybulsky
-1358/8 1939-09-15 # najmabadi, ostovar, tsybulsky
-1358/9 1939-10-15 # bahar-e-iran, najmabadi, ostovar, tsybulsky
-1358/10 1939-11-13 # najmabadi, ostovar, tsybulsky
-1358/11 1939-12-13 # najmabadi, ostovar, tsybulsky
-1358/12 1940-01-11 # najmabadi, ostovar, tsybulsky
-1359/1 1940-02-10 # najmabadi, ostovar, tsybulsky
-1359/2 1940-03-11 # najmabadi, ostovar, tsybulsky
-1359/3 1940-04-10 # najmabadi, ostovar, tsybulsky
-1359/4 1940-05-09 # najmabadi, ostovar, tsybulsky
-1359/5 1940-06-08 # najmabadi, ostovar, tsybulsky
-1359/6 1940-07-07 # najmabadi, tsybulsky
-1359/7 1940-08-06 # najmabadi, tsybulsky
-1359/8 1940-09-04 # najmabadi, tsybulsky
-1359/9 1940-10-03 # najmabadi, tsybulsky
-1359/10 1940-11-02 # najmabadi, tsybulsky
-1359/11 1940-12-01 # najmabadi, tsybulsky
-1359/12 1940-12-30 # najmabadi, tsybulsky
-1360/1 1941-01-29 # najmabadi, tsybulsky
-1360/2 1941-02-28 # najmabadi, tsybulsky
-1360/3 1941-03-30 # najmabadi, tsybulsky
-1360/4 1941-04-28 # najmabadi, tsybulsky
+1358/8 1939-09-15 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/9 1939-10-15 # bahar-e-iran, najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/10 1939-11-13 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/11 1939-12-13 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/12 1940-01-11 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1359/1 1940-02-10 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1359/2 1940-03-11 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1359/3 1940-04-10 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1359/4 1940-05-09 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1359/5 1940-06-08 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1359/6 1940-07-07 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1359/7 1940-08-06 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1359/8 1940-09-04 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1359/9 1940-10-03 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1359/10 1940-11-02 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1359/11 1940-12-01 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1359/12 1940-12-30 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1360/1 1941-01-29 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1360/2 1941-02-28 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1360/3 1941-03-30 # najmabadi, tatbiq-e-taqavim, tsybulsky
+1360/4 1941-04-28 # najmabadi, tatbiq-e-taqavim, tsybulsky
 1360/5 1941-05-28 # ettelaat, khalij-e-iran, najmabadi, tsybulsky
 1360/6 1941-06-27 # ettelaat, najmabadi, tsybulsky
 1360/7 1941-07-26 # ettelaat, najmabadi, tsybulsky
@@ -1117,15 +1117,15 @@
 1361/1 1942-01-19 # ettelaat, najmabadi, tsybulsky
 1361/2 1942-02-17 # ettelaat, najmabadi, tsybulsky
 1361/3 1942-03-19 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tsybulsky
-1361/4 1942-04-17 # ettelaat
+1361/4 1942-04-17 # ettelaat, tatbiq-e-taqavim
 1361/5 1942-05-17 # ettelaat, najmabadi, tsybulsky
 1361/6 1942-06-16 # ettelaat, najmabadi, tsybulsky
-1361/7 1942-07-15 # ettelaat, majalle-ye-bank-e-melli
+1361/7 1942-07-15 # ettelaat, majalle-ye-bank-e-melli, tatbiq-e-taqavim
 1361/8 1942-08-14 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tsybulsky
 1361/9 1942-09-13 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tsybulsky
 1361/10 1942-10-12 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tsybulsky
 1361/11 1942-11-10 # ettelaat, najmabadi, tsybulsky
-1361/12 1942-12-10 # majalle-ye-bank-e-melli, najmabadi, tsybulsky
+1361/12 1942-12-10 # majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
 1362/1 1943-01-08 # ettelaat, majalle-ye-bank-e-melli, tsybulsky
 1362/2 1943-02-07 # ettelaat, majalle-ye-bank-e-melli, tsybulsky
 1362/3 1943-03-08 # ettelaat, tsybulsky
@@ -1144,7 +1144,7 @@
 1363/4 1944-03-26 # ettelaat, tsybulsky
 1363/5 1944-04-25 # ettelaat, tsybulsky
 1363/6 1944-05-24 # ettelaat, tsybulsky
-1363/7 1944-06-23 # ettelaat
+1363/7 1944-06-23 # ettelaat, tatbiq-e-taqavim
 1363/8 1944-07-22 # ettelaat, tsybulsky
 1363/9 1944-08-21 # ettelaat, tsybulsky
 1363/10 1944-09-19 # ettelaat, tsybulsky
@@ -1152,20 +1152,20 @@
 1363/12 1944-11-18 # ettelaat, tsybulsky
 1364/1 1944-12-17 # ettelaat, tsybulsky
 1364/2 1945-01-16 # ettelaat, tsybulsky
-1364/3 1945-02-14 # ettelaat
+1364/3 1945-02-14 # ettelaat, tatbiq-e-taqavim
 1364/4 1945-03-16 # ettelaat, tsybulsky
 1364/5 1945-04-14 # ettelaat, tsybulsky
-1364/6 1945-05-13 # ettelaat
+1364/6 1945-05-13 # ettelaat, tatbiq-e-taqavim
 1364/7 1945-06-12 # ettelaat, tsybulsky
 1364/8 1945-07-11 # ettelaat, tsybulsky
 1364/9 1945-08-10 # ettelaat, tsybulsky
-1364/10 1945-09-08 # ettelaat
+1364/10 1945-09-08 # ettelaat, tatbiq-e-taqavim
 1364/11 1945-10-08 # ettelaat, tsybulsky
 1364/12 1945-11-07 # ettelaat, tsybulsky
 1365/1 1945-12-07 # ettelaat, tsybulsky
 1365/2 1946-01-05 # ettelaat, tsybulsky
 1365/3 1946-02-04 # ettelaat, tsybulsky
-1365/4 1946-03-05 # ettelaat
+1365/4 1946-03-05 # ettelaat, tatbiq-e-taqavim
 1365/5 1946-04-04 # ettelaat, tsybulsky
 1365/6 1946-05-03 # ettelaat, tsybulsky
 1365/7 1946-06-01 # ettelaat, tsybulsky
@@ -1175,7 +1175,7 @@
 1365/11 1946-09-27 # ettelaat, tsybulsky
 1365/12 1946-10-27 # ettelaat, tsybulsky
 1366/1 1946-11-26 # ettelaat, tsybulsky
-1366/2 1946-12-25 # ettelaat
+1366/2 1946-12-25 # ettelaat, tatbiq-e-taqavim
 1366/3 1947-01-24 # ettelaat, tsybulsky
 1366/4 1947-02-23 # ettelaat, tsybulsky
 1366/5 1947-03-24 # ettelaat, tsybulsky
@@ -1184,11 +1184,11 @@
 1366/8 1947-06-20 # ettelaat, tsybulsky
 1366/9 1947-07-20 # ettelaat, tsybulsky
 1366/10 1947-08-18 # ettelaat, tsybulsky
-1366/11 1947-09-17 # ettelaat
+1366/11 1947-09-17 # ettelaat, tatbiq-e-taqavim
 1366/12 1947-10-16 # ettelaat, tsybulsky
 1367/1 1947-11-15 # ettelaat, tsybulsky
 1367/2 1947-12-15 # ettelaat, tsybulsky
-1367/3 1948-01-13 # ettelaat
+1367/3 1948-01-13 # ettelaat, tatbiq-e-taqavim
 1367/4 1948-02-12 # ettelaat, tsybulsky
 1367/5 1948-03-13 # ettelaat, tsybulsky
 1367/6 1948-04-11 # ettelaat, tsybulsky
@@ -1222,7 +1222,7 @@
 1369/10 1950-07-17 # ettelaat, tsybulsky
 1369/11 1950-08-15 # ettelaat, tsybulsky
 1369/12 1950-09-14 # ettelaat, tsybulsky
-1370/1 1950-10-14 # ettelaat
+1370/1 1950-10-14 # ettelaat, tatbiq-e-taqavim
 1370/2 1950-11-12 # ettelaat, tsybulsky
 1370/3 1950-12-11 # ettelaat, tsybulsky
 1370/4 1951-01-10 # ettelaat, tsybulsky
@@ -1233,14 +1233,14 @@
 1370/9 1951-06-06 # ettelaat, tsybulsky
 1370/10 1951-07-06 # ettelaat, tsybulsky
 1370/11 1951-08-05 # ettelaat, tsybulsky
-1370/12 1951-09-03 # ettelaat
+1370/12 1951-09-03 # ettelaat, tatbiq-e-taqavim
 1371/1 1951-10-03 # ettelaat, tsybulsky
 1371/2 1951-11-01 # ettelaat, tsybulsky
 1371/3 1951-12-01 # ettelaat, tsybulsky
 1371/4 1951-12-30 # ettelaat, tsybulsky
 1371/5 1952-01-29 # ettelaat, tsybulsky
 1371/6 1952-02-27 # ettelaat, tsybulsky
-1371/7 1952-03-28 # ettelaat
+1371/7 1952-03-28 # ettelaat, tatbiq-e-taqavim
 1371/8 1952-04-26 # ettelaat, tsybulsky
 1371/9 1952-05-25 # ettelaat, tsybulsky
 1371/10 1952-06-24 # ettelaat, tsybulsky
@@ -1305,18 +1305,18 @@
 1376/9 1957-04-02 # ettelaat, tsybulsky
 1376/10 1957-05-02 # ettelaat, tsybulsky
 1376/11 1957-05-31 # ettelaat, tsybulsky
-1376/12 1957-06-29 # ettelaat
+1376/12 1957-06-29 # ettelaat, tatbiq-e-taqavim
 1377/1 1957-07-29 # ettelaat, tsybulsky
 1377/2 1957-08-27 # ettelaat, tsybulsky
 1377/3 1957-09-26 # ettelaat, tsybulsky
 1377/4 1957-10-25 # ettelaat, tsybulsky
 1377/5 1957-11-23 # ettelaat, tsybulsky
 1377/6 1957-12-23 # ettelaat, tsybulsky
-1377/7 1958-01-22 # ettelaat
-1377/8 1958-02-20 # ettelaat
-1377/9 1958-03-22 # ettelaat
-1377/10 1958-04-21 # ettelaat
-1377/11 1958-05-21 # ettelaat
+1377/7 1958-01-22 # ettelaat, tatbiq-e-taqavim
+1377/8 1958-02-20 # ettelaat, tatbiq-e-taqavim
+1377/9 1958-03-22 # ettelaat, tatbiq-e-taqavim
+1377/10 1958-04-21 # ettelaat, tatbiq-e-taqavim
+1377/11 1958-05-21 # ettelaat, tatbiq-e-taqavim
 1377/12 1958-06-19 # ettelaat, tsybulsky
 1378/1 1958-07-19 # ettelaat, tsybulsky
 1378/2 1958-08-17 # ettelaat, tsybulsky
@@ -1326,10 +1326,10 @@
 1378/6 1958-12-12 # ettelaat, tsybulsky
 1378/7 1959-01-11 # ettelaat, tsybulsky
 1378/8 1959-02-09 # ettelaat, tsybulsky
-1378/9 1959-03-11 # ettelaat, kayhan, peyk-e-iran, taraqqi, tsybulsky
+1378/9 1959-03-11 # ettelaat, kayhan, peyk-e-iran, taraqqi, tatbiq-e-taqavim, tsybulsky
 *1378/10 1959-04-09 # ettelaat, kayhan, neda-ye-haq, peyk-e-iran
 1378/11 1959-05-09 # kayhan, neda-ye-haq, peyk-e-iran
-1378/12 1959-06-08 # ettelaat, neda-ye-haq, taraqqi, tsybulsky
+1378/12 1959-06-08 # ettelaat, neda-ye-haq, taraqqi, tatbiq-e-taqavim, tsybulsky
 1379/1 1959-07-08 # ettelaat, tsybulsky
 1379/2 1959-08-07 # ettelaat, tsybulsky
 1379/3 1959-09-05 # ettelaat, tsybulsky
@@ -1351,7 +1351,7 @@
 1380/7 1960-12-20 # ettelaat, tsybulsky
 1380/8 1961-01-18 # ettelaat, tsybulsky
 1380/9 1961-02-17 # ettelaat, tsybulsky
-1380/10 1961-03-18 # ettelaat
+1380/10 1961-03-18 # ettelaat, tatbiq-e-taqavim
 1380/11 1961-04-17 # ettelaat, tsybulsky
 1380/12 1961-05-16 # ettelaat, tsybulsky
 1381/1 1961-06-15 # ettelaat, tsybulsky
@@ -1570,7 +1570,7 @@
 1398/10 1978-09-04 # ettelaat
 1398/11 1978-10-04 # ettelaat
 1398/12 1978-11-02 # ettelaat
-1399/1 1978-12-02 # mehr-e-iran, tamasha
+1399/1 1978-12-02 # mehr-e-iran, tamasha, tatbiq-e-taqavim
 1399/2 1978-12-31 # ettelaat
 1399/3 1979-01-30 # ettelaat
 1399/4 1979-02-28 # ettelaat
