@@ -1,0 +1,13 @@
+# جنگل
+1335/8 1917-05-23 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13350819_AH.pdf
+1335/9 1917-06-21 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13350906_AH.pdf
+1335/10 1917-07-21 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13351001_AH.pdf
+1335/11 1917-08-20 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13351116_AH.pdf
+1335/12 1917-09-19 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13351210_AH.pdf
+
+# 1336/1 may be contradictory. Skipping to be safe.
+1336/2 1917-11-17 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13360201_AH.pdf
+1336/3 1917-12-16 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13360308_AH.pdf
+1336/4 1918-01-15 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13360410_AH.pdf
+1336/5 1918-02-13 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13360508_AH.pdf
+1336/6 1918-03-14 # Implied from https://commons.wikimedia.org/wiki/File:Jangal_13360607_AH.pdf
