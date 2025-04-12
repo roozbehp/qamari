@@ -1,13 +1,22 @@
+1267/4 1851-02-03 # vaqaye-e-ettefaqie
+1267/5 1851-03-05 # vaqaye-e-ettefaqie
+1267/6 1851-04-04 # vaqaye-e-ettefaqie
+1267/7 1851-05-03 # vaqaye-e-ettefaqie
+1267/8 1851-06-01 # vaqaye-e-ettefaqie
+1267/9 1851-07-01 # vaqaye-e-ettefaqie
+1267/10 1851-07-30 # vaqaye-e-ettefaqie
+1267/11 1851-08-29 # vaqaye-e-ettefaqie
+1267/12 1851-09-27 # vaqaye-e-ettefaqie
 1268/1 1851-10-26 # najmabadi
-1268/2 1851-11-25 # najmabadi
-1268/3 1851-12-24 # najmabadi
-1268/4 1852-01-23 # najmabadi
-1268/5 1852-02-22 # najmabadi
-1268/6 1852-03-23 # najmabadi
-1268/7 1852-04-21 # najmabadi
-1268/8 1852-05-21 # najmabadi
-1268/9 1852-06-19 # najmabadi
-1268/10 1852-07-19 # najmabadi
+1268/2 1851-11-25 # najmabadi, vaqaye-e-ettefaqie
+1268/3 1851-12-24 # najmabadi, vaqaye-e-ettefaqie
+1268/4 1852-01-23 # najmabadi, vaqaye-e-ettefaqie
+1268/5 1852-02-22 # najmabadi, vaqaye-e-ettefaqie
+1268/6 1852-03-23 # najmabadi, vaqaye-e-ettefaqie
+1268/7 1852-04-21 # najmabadi, vaqaye-e-ettefaqie
+1268/8 1852-05-21 # najmabadi, vaqaye-e-ettefaqie
+1268/9 1852-06-19 # najmabadi, vaqaye-e-ettefaqie
+1268/10 1852-07-19 # najmabadi, vaqaye-e-ettefaqie
 1268/11 1852-08-17 # najmabadi
 1268/12 1852-09-16 # najmabadi
 1269/1 1852-10-15 # najmabadi
