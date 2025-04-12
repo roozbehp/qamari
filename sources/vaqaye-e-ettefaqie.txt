@@ -1,0 +1,23 @@
+# وقایع اتفاقیه
+# https://commons.wikimedia.org/wiki/File:Rvznamh-vghaye-atfaghyh-jld-1-az-shmarh-1-ta-70.pdf
+1267/4 1851-02-03 # Implied from issue 1, Fri 1267/4/5 AH. Contradicts issue 2, but agrees with issue 3 and 4.
+1267/5 1851-03-05 # Implied from issue 5, Fri 1267/5/3 AH
+1267/6 1851-04-04 # Implied from issue 9, Fri 1267/6/1 AH
+1267/7 1851-05-03 # Implied from issue 14, Fri 1267/7/7 AH
+1267/8 1851-06-01 # Implied from issue 18, Thu 1267/8/5 AH
+1267/9 1851-07-01 # Implied from issue 22, Thu 1267/9/3 AH
+1267/10 1851-07-30 # Implied from issue 26, Thu 1267/10/2 AH
+1267/11 1851-08-29 # Implied from issue 31, Thu 1267/11/7 AH
+1267/12 1851-09-27 # Implied from issue 35, Thu 1267/12/6 AH
+# 1268/1 is inconsistent across issues 39-42. Skipping.
+1268/2 1851-11-25 # Implied from issue 43, Thu 1268/2/3 AH
+1268/3 1851-12-24 # Implied from issue 47, Thu 1268/3/2 AH
+1268/4 1852-01-23 # Implied from issue 52, Thu 1268/4/7 AH
+1268/5 1852-02-22 # Implied from issue 56, Thu 1268/5/5 AH
+1268/6 1852-03-23 # Implied from issue 60, Thu 1268/6/3 AH
+1268/7 1852-04-21 # Implied from issue 64, Thu 1268/7/2 AH
+1268/8 1852-05-21 # Implied from issue 69, Thu 1268/8/7 AH
+
+# https://commons.wikimedia.org/wiki/File:Rvznamh-vghaye-atfaghyh-jld-1-az-shmarh-70-ta-130.pdf
+1268/9 1852-06-19 # Implied from issue 73, Thu 1268/9/6 AH
+1268/10 1852-07-19 # Implied from issue 77, Thu 1268/10/4 AH
