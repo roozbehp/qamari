@@ -14,3 +14,5 @@
 1330/5 1912-04-19 # Implied from issue of Tue 1330/5/5 AH=3[sic?] Sowr
 # 1330/6 Is inconsistent during the month so we are skipping it.
 1330/7 1912-06-17 # Implied from issue of Tue 1330/7/2 AH=28[sic?] Jowza
+1330/8 1912-07-16 # Implied from issue of Thu 1330/8/3 AH=26[sic?] Saratan
+1330/9 1912-08-14 # Implied from issue of Thu 1330/9/2 AH=23[sic?] Asad
