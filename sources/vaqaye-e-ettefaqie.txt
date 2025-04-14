@@ -21,3 +21,10 @@
 # https://commons.wikimedia.org/wiki/File:Rvznamh-vghaye-atfaghyh-jld-1-az-shmarh-70-ta-130.pdf
 1268/9 1852-06-19 # Implied from issue 73, Thu 1268/9/6 AH
 1268/10 1852-07-19 # Implied from issue 77, Thu 1268/10/4 AH
+1268/11 1852-08-17 # Implied from issue 81, Thu 1268/11/3 AH
+1268/12 1852-09-16 # Implied from issue 85, Thu 1268/12/1 AH
+1269/1 1852-10-15 # Implied from issue 90, Thu 1269/1/7 AH
+1269/2 1852-11-13 # Implied from issue 94, Thu 1269/2/6 AH
+# 1269/3 is inconsistent across issues 98-101
+1269/4 1853-1-11 # Implied from issue 102, Thu 1269/4/3 AH
+1269/5 1853-2-10 # Implied from issue 106, Thu 1269/5/1 AH
