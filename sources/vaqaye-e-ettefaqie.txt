@@ -26,5 +26,5 @@
 1269/1 1852-10-15 # Implied from issue 90, Thu 1269/1/7 AH
 1269/2 1852-11-13 # Implied from issue 94, Thu 1269/2/6 AH
 # 1269/3 is inconsistent across issues 98-101
-1269/4 1853-1-11 # Implied from issue 102, Thu 1269/4/3 AH
-1269/5 1853-2-10 # Implied from issue 106, Thu 1269/5/1 AH
+1269/4 1853-01-11 # Implied from issue 102, Thu 1269/4/3 AH
+1269/5 1853-02-10 # Implied from issue 106, Thu 1269/5/1 AH
