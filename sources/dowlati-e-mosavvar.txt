@@ -1,0 +1,41 @@
+# روزنامهٔ دولت علیهٔ ایران
+1277/2 1860-08-19 # Implied from issue 472, Thu 1277/2/19 AH, Pichi Il
+1277/3 1860-09-17 # Implied from issue 474, Thu 1277/3/18 AH
+1277/4 1860-10-17 # Implied from issue 475, Thu 1277/4/2 AH
+1277/5 1860-11-15 # Implied from issue 478, Thu 1277/5/8 AH
+1277/6 1860-12-14 # Implied from issue 480, Thu 1277/6/7 AH
+1277/7 1861-01-13 # Implied from issue 482, Thu 1277/7/12 AH
+1277/8 1861-02-12 # Implied from issue 484, Thu 1277/8/10 AH
+1277/9 1861-03-13 # Implied from issue 486, Thu 1277/9/2 AH
+
+# Days of the week are not listed for 1277/10 to 1278/3, so we can't deduce anything from that range.
+
+1278/4 1861-10-06 # Implied from issue 501, Thu 1278/4/12 AH
+1278/5 1861-11-05 # Implied from issue 503, Thu 1278/5/3 AH
+1278/6 1861-12-04 # Implied from issue 507, Thu 1278/6/2 AH
+1278/7 1862-01-02 # Issue 510, Thu 1278/7/1 AH
+1278/8 1862-02-01 # Implied from issue 514, Thu 1278/8/13 AH
+1278/9 1862-03-02 # Implied from issue 516, Thu 1278/9/5 AH
+1278/10 1862-04-01 # Implied from issue 518, Thu 1278/10/3 AH, It Il
+1278/11 1862-05-01 # Implied from issue 521, Sun 1278/11/18 AH
+1278/12 1862-05-30 # Implied from issue 523, Thu 1278/12/14 AH
+
+1279/1 1862-06-29 # Implied from issue 525, Thu 1279/1/12 AH, It Il
+1279/2 1862-07-29 # Implied from issue 527, Thu 1279/2/17 AH
+1279/3 1862-08-28 # Issue 528, Thu 1279/3/1 AH
+1279/4 1862-09-26 # Implied from issue 530, Thu 1279/4/7 AH
+1279/5 1862-10-25 # Implied from issue 532, Thu 1279/5/13 AH
+1279/6 1862-11-24 # Implied from issue 533, Thu 1279/6/4 AH
+1279/7 1862-12-23 # Implied from issue 534, Thu 1279/7/3 AH
+# 1279/8 is inconsistent. Skipping.
+1279/9 1863-02-20 # Implied from issue 539, Thu 1279/9/28 AH
+1279/10 1863-03-21 # Implied from issue 540, Thu 1279/10/13 AH, Tanguz Il
+1279/11 1863-04-20 # Implied from issue 542, Thu 1279/11/18 AH
+1279/12 1863-05-19 # Implied from issue 543, Thu 1279/12/3 AH
+
+1280/1 1863-06-18 # Implied from issue 545, Thu 1280/1/15 AH, Tanguz Il
+1280/2 1863-07-18 # Implied from issue 546, Thu 1280/2/13 AH
+1280/3 1863-08-17 # Implied from issue 547, Thu 1280/3/11 AH
+1280/4 1863-09-16 # Implied from issue 548, Thu 1280/4/16 AH
+1280/5 1863-10-15 # Implied from issue 549, Thu 1280/5/8 AH
+1280/6 1863-11-13 # Implied from issue 550, Thu 1280/6/14 AH
