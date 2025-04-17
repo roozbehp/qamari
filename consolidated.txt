@@ -17,13 +17,13 @@
 1268/8 1852-05-21 # najmabadi, vaqaye-e-ettefaqie
 1268/9 1852-06-19 # najmabadi, vaqaye-e-ettefaqie
 1268/10 1852-07-19 # najmabadi, vaqaye-e-ettefaqie
-1268/11 1852-08-17 # najmabadi
-1268/12 1852-09-16 # najmabadi
-1269/1 1852-10-15 # najmabadi
-1269/2 1852-11-13 # najmabadi
+1268/11 1852-08-17 # najmabadi, vaqaye-e-ettefaqie
+1268/12 1852-09-16 # najmabadi, vaqaye-e-ettefaqie
+1269/1 1852-10-15 # najmabadi, vaqaye-e-ettefaqie
+1269/2 1852-11-13 # najmabadi, vaqaye-e-ettefaqie
 1269/3 1852-12-13 # najmabadi
-1269/4 1853-01-11 # najmabadi
-1269/5 1853-02-10 # najmabadi
+1269/4 1853-01-11 # najmabadi, vaqaye-e-ettefaqie
+1269/5 1853-02-10 # najmabadi, vaqaye-e-ettefaqie
 1269/6 1853-03-12 # najmabadi
 1269/7 1853-04-10 # najmabadi
 1269/8 1853-05-10 # najmabadi
@@ -519,247 +519,247 @@
 1310/6 1892-12-21 # eqbal, najmabadi, tsybulsky
 1310/7 1893-01-20 # eqbal, najmabadi, tsybulsky
 1310/8 1893-02-18 # eqbal, najmabadi, tsybulsky
-1310/9 1893-03-20 # najmabadi, tsybulsky
-1310/10 1893-04-18 # najmabadi, tsybulsky
-1310/11 1893-05-17 # najmabadi, tsybulsky
-1310/12 1893-06-16 # najmabadi, tsybulsky
-1311/1 1893-07-15 # najmabadi, tsybulsky
-1311/2 1893-08-14 # najmabadi, tsybulsky
-1311/3 1893-09-12 # najmabadi, tsybulsky
-1311/4 1893-10-12 # najmabadi, tsybulsky
-1311/5 1893-11-11 # najmabadi, tsybulsky
-1311/6 1893-12-10 # najmabadi, tsybulsky
-1311/7 1894-01-09 # najmabadi, tsybulsky
-1311/8 1894-02-08 # najmabadi, tsybulsky
-1311/9 1894-03-09 # najmabadi, tsybulsky
-1311/10 1894-04-08 # najmabadi, tsybulsky
-1311/11 1894-05-07 # najmabadi, tsybulsky
-1311/12 1894-06-05 # najmabadi, tsybulsky
-1312/1 1894-07-05 # najmabadi, tsybulsky
-1312/2 1894-08-03 # najmabadi, tsybulsky
-1312/3 1894-09-02 # najmabadi, tsybulsky
-1312/4 1894-10-01 # najmabadi, tsybulsky
-1312/5 1894-10-31 # najmabadi, tsybulsky
-1312/6 1894-11-30 # najmabadi, tsybulsky
-1312/7 1894-12-29 # najmabadi, tsybulsky
-1312/8 1895-01-28 # najmabadi, tsybulsky
-1312/9 1895-02-27 # najmabadi, tsybulsky
-1312/10 1895-03-28 # najmabadi, tsybulsky
-1312/11 1895-04-27 # najmabadi, tsybulsky
-1312/12 1895-05-26 # najmabadi, tsybulsky
-1313/1 1895-06-24 # najmabadi, tsybulsky
-1313/2 1895-07-24 # najmabadi, tsybulsky
-1313/3 1895-08-22 # najmabadi, tsybulsky
-1313/4 1895-09-21 # najmabadi, tsybulsky
-1313/5 1895-10-20 # najmabadi, tsybulsky
-1313/6 1895-11-19 # najmabadi, tsybulsky
-1313/7 1895-12-18 # najmabadi, tsybulsky
-1313/8 1896-01-17 # najmabadi, tsybulsky
-1313/9 1896-02-15 # najmabadi, tsybulsky
-1313/10 1896-03-16 # najmabadi, tsybulsky
-1313/11 1896-04-15 # najmabadi, tsybulsky
-1313/12 1896-05-14 # najmabadi, tsybulsky
-1314/1 1896-06-13 # najmabadi, tsybulsky
-1314/2 1896-07-12 # najmabadi, tsybulsky
-1314/3 1896-08-11 # najmabadi, tsybulsky
-1314/4 1896-09-10 # najmabadi, tsybulsky
-1314/5 1896-10-09 # najmabadi, tsybulsky
-1314/6 1896-11-07 # najmabadi, tsybulsky
-1314/7 1896-12-07 # najmabadi, tsybulsky
-1314/8 1897-01-05 # najmabadi, tsybulsky
-1314/9 1897-02-04 # najmabadi, tsybulsky
-1314/10 1897-03-05 # najmabadi, tsybulsky
-1314/11 1897-04-04 # najmabadi, tsybulsky
-1314/12 1897-05-04 # najmabadi, tsybulsky
-1315/1 1897-06-02 # najmabadi, tsybulsky
-1315/2 1897-07-02 # najmabadi, tsybulsky
-1315/3 1897-08-01 # najmabadi, tsybulsky
-1315/4 1897-08-30 # najmabadi, tsybulsky
-1315/5 1897-09-29 # najmabadi, tsybulsky
-1315/6 1897-10-28 # najmabadi, tsybulsky
-1315/7 1897-11-26 # najmabadi, tsybulsky
-1315/8 1897-12-26 # najmabadi, tsybulsky
-1315/9 1898-01-24 # najmabadi, tsybulsky
-1315/10 1898-02-22 # najmabadi, tsybulsky
-1315/11 1898-03-24 # najmabadi, tsybulsky
-1315/12 1898-04-23 # najmabadi, tsybulsky
-1316/1 1898-05-22 # najmabadi, tsybulsky
-1316/2 1898-06-21 # najmabadi, tsybulsky
-1316/3 1898-07-21 # najmabadi, tsybulsky
-1316/4 1898-08-20 # najmabadi, tsybulsky
-1316/5 1898-09-18 # najmabadi, tsybulsky
-1316/6 1898-10-18 # najmabadi, tsybulsky
-1316/7 1898-11-16 # najmabadi, tsybulsky
-1316/8 1898-12-15 # najmabadi, tsybulsky
-1316/9 1899-01-14 # najmabadi, tsybulsky
-1316/10 1899-02-12 # najmabadi, tsybulsky
-1316/11 1899-03-13 # najmabadi, tsybulsky
-1316/12 1899-04-12 # najmabadi, tsybulsky
-1317/1 1899-05-11 # najmabadi, tsybulsky
-1317/2 1899-06-10 # najmabadi, tsybulsky
-1317/3 1899-07-10 # najmabadi, tsybulsky
-1317/4 1899-08-09 # najmabadi, tsybulsky
-1317/5 1899-09-08 # najmabadi, tsybulsky
-1317/6 1899-10-07 # najmabadi, tsybulsky
-1317/7 1899-11-06 # najmabadi, tsybulsky
-1317/8 1899-12-05 # najmabadi, tsybulsky
-1317/9 1900-01-03 # najmabadi, tsybulsky
-1317/10 1900-02-02 # najmabadi, tsybulsky
-1317/11 1900-03-03 # najmabadi, tsybulsky
-1317/12 1900-04-01 # najmabadi, tsybulsky
-1318/1 1900-05-01 # najmabadi, tsybulsky
-1318/2 1900-05-30 # najmabadi, tsybulsky
-1318/3 1900-06-29 # najmabadi, tsybulsky
-1318/4 1900-07-29 # najmabadi, tsybulsky
-1318/5 1900-08-28 # najmabadi, tsybulsky
-1318/6 1900-09-26 # najmabadi, tsybulsky
-1318/7 1900-10-26 # najmabadi, tsybulsky
-1318/8 1900-11-24 # najmabadi, tsybulsky
-1318/9 1900-12-24 # najmabadi, tsybulsky
-1318/10 1901-01-22 # najmabadi, tsybulsky
-1318/11 1901-02-21 # najmabadi, tsybulsky
-1318/12 1901-03-22 # najmabadi, tsybulsky
-1319/1 1901-04-20 # najmabadi, tsybulsky
-1319/2 1901-05-20 # najmabadi, tsybulsky
-1319/3 1901-06-18 # najmabadi, tsybulsky
-1319/4 1901-07-18 # najmabadi, tsybulsky
-1319/5 1901-08-17 # najmabadi, tsybulsky
-1319/6 1901-09-15 # najmabadi, tsybulsky
-1319/7 1901-10-15 # najmabadi, tsybulsky
-1319/8 1901-11-13 # najmabadi, tsybulsky
-1319/9 1901-12-13 # najmabadi, tsybulsky
-1319/10 1902-01-12 # najmabadi, tsybulsky
-1319/11 1902-02-10 # najmabadi, tsybulsky
-1319/12 1902-03-12 # najmabadi, tsybulsky
-1320/1 1902-04-10 # najmabadi, tsybulsky
-1320/2 1902-05-10 # najmabadi, tsybulsky
-1320/3 1902-06-08 # najmabadi, tsybulsky
-1320/4 1902-07-07 # najmabadi, tsybulsky
-1320/5 1902-08-06 # najmabadi, tsybulsky
-1320/6 1902-09-05 # najmabadi, tsybulsky
-1320/7 1902-10-04 # najmabadi, tsybulsky
-1320/8 1902-11-02 # najmabadi, tsybulsky
-1320/9 1902-12-02 # najmabadi, tsybulsky
-1320/10 1903-01-01 # najmabadi, tsybulsky
-1320/11 1903-01-30 # najmabadi, tsybulsky
-1320/12 1903-03-01 # najmabadi, tsybulsky
-1321/1 1903-03-31 # najmabadi, tsybulsky
-1321/2 1903-04-29 # najmabadi, tsybulsky
-1321/3 1903-05-29 # najmabadi, tsybulsky
-1321/4 1903-06-27 # najmabadi, tsybulsky
-1321/5 1903-07-26 # najmabadi, tsybulsky
-1321/6 1903-08-25 # najmabadi, tsybulsky
-1321/7 1903-09-23 # najmabadi, tsybulsky
-1321/8 1903-10-22 # najmabadi, tsybulsky
-1321/9 1903-11-21 # najmabadi, tsybulsky
-1321/10 1903-12-21 # najmabadi, tsybulsky
-1321/11 1904-01-19 # najmabadi, tsybulsky
-1321/12 1904-02-18 # najmabadi, tsybulsky
-1322/1 1904-03-19 # najmabadi, tsybulsky
-1322/2 1904-04-18 # najmabadi, tsybulsky
-1322/3 1904-05-17 # najmabadi, tsybulsky
-1322/4 1904-06-15 # najmabadi, tsybulsky
-1322/5 1904-07-15 # najmabadi, tsybulsky
-1322/6 1904-08-13 # najmabadi, tsybulsky
-1322/7 1904-09-12 # najmabadi, tsybulsky
-1322/8 1904-10-11 # najmabadi, tsybulsky
-1322/9 1904-11-09 # najmabadi, tsybulsky
-1322/10 1904-12-09 # najmabadi, tsybulsky
-1322/11 1905-01-07 # najmabadi, tsybulsky
-1322/12 1905-02-06 # najmabadi, tsybulsky
-1323/1 1905-03-08 # najmabadi, tsybulsky
-1323/2 1905-04-07 # najmabadi, tsybulsky
-1323/3 1905-05-06 # najmabadi, tsybulsky
-1323/4 1905-06-05 # najmabadi, tsybulsky
-1323/5 1905-07-05 # najmabadi, tsybulsky
-1323/6 1905-08-03 # najmabadi, tsybulsky
-1323/7 1905-09-01 # najmabadi, tsybulsky
-1323/8 1905-10-01 # najmabadi, tsybulsky
-1323/9 1905-10-30 # najmabadi, tsybulsky
-1323/10 1905-11-28 # najmabadi, tsybulsky
-1323/11 1905-12-28 # najmabadi, tsybulsky
-1323/12 1906-01-26 # najmabadi, tsybulsky
-1324/1 1906-02-25 # najmabadi, tsybulsky
-1324/2 1906-03-27 # najmabadi, tsybulsky
-1324/3 1906-04-26 # najmabadi, tsybulsky
-1324/4 1906-05-25 # najmabadi, tsybulsky
-1324/5 1906-06-24 # najmabadi, tsybulsky
-1324/6 1906-07-23 # najmabadi, tsybulsky
-1324/7 1906-08-22 # najmabadi, tsybulsky
-1324/8 1906-09-20 # najmabadi, tsybulsky
-1324/9 1906-10-20 # najmabadi, tsybulsky
-1324/10 1906-11-18 # majles, najmabadi, tsybulsky
-1324/11 1906-12-17 # majles, najmabadi, tsybulsky
-1324/12 1907-01-16 # majles, najmabadi, tsybulsky
-1325/1 1907-02-14 # najmabadi, tsybulsky
-1325/2 1907-03-16 # najmabadi, tsybulsky
-1325/3 1907-04-15 # habl-ol-matin, najmabadi, tsybulsky
-1325/4 1907-05-14 # ayine-ye-eybnama, habl-ol-matin, najmabadi, tsybulsky
-1325/5 1907-06-13 # habl-ol-matin, najmabadi, tsybulsky
-1325/6 1907-07-12 # habl-ol-matin, najmabadi, tsybulsky
-1325/7 1907-08-11 # habl-ol-matin, najmabadi, tsybulsky
-1325/8 1907-09-10 # habl-ol-matin, najmabadi, tsybulsky
-1325/9 1907-10-09 # habl-ol-matin, najmabadi, tsybulsky
-1325/10 1907-11-08 # habl-ol-matin, najmabadi, tsybulsky
-1325/11 1907-12-07 # habl-ol-matin, najmabadi, tsybulsky
-1325/12 1908-01-06 # habl-ol-matin, najmabadi, tsybulsky
-1326/1 1908-02-04 # habl-ol-matin, najmabadi, tsybulsky
-1326/2 1908-03-04 # habl-ol-matin, najmabadi, tsybulsky
-1326/3 1908-04-03 # habl-ol-matin, najmabadi, tsybulsky
-1326/4 1908-05-02 # najmabadi, tsybulsky
-1326/5 1908-06-01 # najmabadi, tsybulsky
-1326/6 1908-06-30 # najmabadi, tsybulsky
-1326/7 1908-07-30 # najmabadi, tsybulsky
-1326/8 1908-08-29 # najmabadi, tsybulsky
-1326/9 1908-09-27 # najmabadi, tsybulsky
-1326/10 1908-10-27 # najmabadi, tsybulsky
-1326/11 1908-11-26 # najmabadi, tsybulsky
-1326/12 1908-12-25 # najmabadi, tsybulsky
-1327/1 1909-01-24 # najmabadi, tsybulsky
-1327/2 1909-02-22 # najmabadi, tsybulsky
-1327/3 1909-03-23 # najmabadi, tsybulsky
-1327/4 1909-04-22 # najmabadi, tsybulsky
-1327/5 1909-05-21 # najmabadi, tsybulsky
-1327/6 1909-06-20 # najmabadi, tsybulsky
-1327/7 1909-07-19 # najmabadi, tsybulsky
-1327/8 1909-08-18 # adam-e-abolbashar, najmabadi, tsybulsky
-1327/9 1909-09-17 # najmabadi, tsybulsky
-1327/10 1909-10-16 # najmabadi, tsybulsky
-1327/11 1909-11-15 # najmabadi, tsybulsky
-1327/12 1909-12-15 # najmabadi, tsybulsky
-1328/1 1910-01-13 # najmabadi, tsybulsky
-1328/2 1910-02-12 # najmabadi, tsybulsky
-1328/3 1910-03-13 # najmabadi, tsybulsky
-1328/4 1910-04-12 # najmabadi, tsybulsky
-1328/5 1910-05-11 # najmabadi, tsybulsky
-1328/6 1910-06-09 # najmabadi, tsybulsky
-1328/7 1910-07-08 # najmabadi, tsybulsky
-1328/8 1910-08-07 # najmabadi, tsybulsky
-1328/9 1910-09-06 # danesh, najmabadi, tsybulsky
-1328/10 1910-10-05 # najmabadi, tsybulsky
-1328/11 1910-11-04 # danesh, najmabadi, tsybulsky
-1328/12 1910-12-04 # najmabadi, tsybulsky
-1329/1 1911-01-03 # danesh, najmabadi, tsybulsky
-1329/2 1911-02-01 # najmabadi, tsybulsky
-1329/3 1911-03-03 # najmabadi, tsybulsky
-1329/4 1911-04-01 # danesh, najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/5 1911-04-30 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/6 1911-05-30 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/7 1911-06-28 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/8 1911-07-27 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/9 1911-08-26 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/10 1911-09-25 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/11 1911-10-24 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1329/12 1911-11-23 # najmabadi, tsybulsky
-1330/1 1911-12-23 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/2 1912-01-21 # aftab, najmabadi, tsybulsky
-1330/3 1912-02-20 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/4 1912-03-21 # aftab, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1310/9 1893-03-20 # eqbal, najmabadi, tsybulsky
+1310/10 1893-04-18 # eqbal, najmabadi, tsybulsky
+1310/11 1893-05-17 # eqbal, najmabadi, tsybulsky
+1310/12 1893-06-16 # eqbal, najmabadi, tsybulsky
+1311/1 1893-07-15 # eqbal, najmabadi, tsybulsky
+1311/2 1893-08-14 # eqbal, najmabadi, tsybulsky
+1311/3 1893-09-12 # eqbal, najmabadi, tsybulsky
+1311/4 1893-10-12 # eqbal, najmabadi, tsybulsky
+1311/5 1893-11-11 # eqbal, najmabadi, tsybulsky
+1311/6 1893-12-10 # eqbal, najmabadi, tsybulsky
+1311/7 1894-01-09 # eqbal, najmabadi, tsybulsky
+1311/8 1894-02-08 # eqbal, najmabadi, tsybulsky
+1311/9 1894-03-09 # eqbal, najmabadi, tsybulsky
+1311/10 1894-04-08 # eqbal, najmabadi, tsybulsky
+1311/11 1894-05-07 # eqbal, najmabadi, tsybulsky
+1311/12 1894-06-05 # eqbal, najmabadi, tsybulsky
+1312/1 1894-07-05 # eqbal, najmabadi, tsybulsky
+1312/2 1894-08-03 # eqbal, najmabadi, tsybulsky
+1312/3 1894-09-02 # eqbal, najmabadi, tsybulsky
+1312/4 1894-10-01 # eqbal, najmabadi, tsybulsky
+1312/5 1894-10-31 # eqbal, najmabadi, tsybulsky
+1312/6 1894-11-30 # eqbal, najmabadi, tsybulsky
+1312/7 1894-12-29 # eqbal, najmabadi, tsybulsky
+1312/8 1895-01-28 # eqbal, najmabadi, tsybulsky
+1312/9 1895-02-27 # eqbal, najmabadi, tsybulsky
+1312/10 1895-03-28 # eqbal, najmabadi, tsybulsky
+1312/11 1895-04-27 # eqbal, najmabadi, tsybulsky
+1312/12 1895-05-26 # eqbal, najmabadi, tsybulsky
+1313/1 1895-06-24 # eqbal, najmabadi, tsybulsky
+1313/2 1895-07-24 # eqbal, najmabadi, tsybulsky
+1313/3 1895-08-22 # eqbal, najmabadi, tsybulsky
+1313/4 1895-09-21 # eqbal, najmabadi, tsybulsky
+1313/5 1895-10-20 # eqbal, najmabadi, tsybulsky
+1313/6 1895-11-19 # eqbal, najmabadi, tsybulsky
+1313/7 1895-12-18 # eqbal, najmabadi, tsybulsky
+1313/8 1896-01-17 # eqbal, najmabadi, tsybulsky
+1313/9 1896-02-15 # eqbal, najmabadi, tsybulsky
+1313/10 1896-03-16 # eqbal, najmabadi, tsybulsky
+1313/11 1896-04-15 # eqbal, najmabadi, tsybulsky
+1313/12 1896-05-14 # eqbal, najmabadi, tsybulsky
+1314/1 1896-06-13 # eqbal, najmabadi, tsybulsky
+1314/2 1896-07-12 # eqbal, najmabadi, tsybulsky
+1314/3 1896-08-11 # eqbal, najmabadi, tsybulsky
+1314/4 1896-09-10 # eqbal, najmabadi, tsybulsky
+1314/5 1896-10-09 # eqbal, najmabadi, tsybulsky
+1314/6 1896-11-07 # eqbal, najmabadi, tsybulsky
+1314/7 1896-12-07 # eqbal, najmabadi, tsybulsky
+1314/8 1897-01-05 # eqbal, najmabadi, tsybulsky
+1314/9 1897-02-04 # eqbal, najmabadi, tsybulsky
+1314/10 1897-03-05 # eqbal, najmabadi, tsybulsky
+1314/11 1897-04-04 # eqbal, najmabadi, tsybulsky
+1314/12 1897-05-04 # eqbal, najmabadi, tsybulsky
+1315/1 1897-06-02 # eqbal, najmabadi, tsybulsky
+1315/2 1897-07-02 # eqbal, najmabadi, tsybulsky
+1315/3 1897-08-01 # eqbal, najmabadi, tsybulsky
+1315/4 1897-08-30 # eqbal, najmabadi, tsybulsky
+1315/5 1897-09-29 # eqbal, najmabadi, tsybulsky
+1315/6 1897-10-28 # eqbal, najmabadi, tsybulsky
+1315/7 1897-11-26 # eqbal, najmabadi, tsybulsky
+1315/8 1897-12-26 # eqbal, najmabadi, tsybulsky
+1315/9 1898-01-24 # eqbal, najmabadi, tsybulsky
+1315/10 1898-02-22 # eqbal, najmabadi, tsybulsky
+1315/11 1898-03-24 # eqbal, najmabadi, tsybulsky
+1315/12 1898-04-23 # eqbal, najmabadi, tsybulsky
+1316/1 1898-05-22 # eqbal, najmabadi, tsybulsky
+1316/2 1898-06-21 # eqbal, najmabadi, tsybulsky
+1316/3 1898-07-21 # eqbal, najmabadi, tsybulsky
+1316/4 1898-08-20 # eqbal, najmabadi, tsybulsky
+1316/5 1898-09-18 # eqbal, najmabadi, tsybulsky
+1316/6 1898-10-18 # eqbal, najmabadi, tsybulsky
+1316/7 1898-11-16 # eqbal, najmabadi, tsybulsky
+1316/8 1898-12-15 # eqbal, najmabadi, tsybulsky
+1316/9 1899-01-14 # eqbal, najmabadi, tsybulsky
+1316/10 1899-02-12 # eqbal, najmabadi, tsybulsky
+1316/11 1899-03-13 # eqbal, najmabadi, tsybulsky
+1316/12 1899-04-12 # eqbal, najmabadi, tsybulsky
+1317/1 1899-05-11 # eqbal, najmabadi, tsybulsky
+1317/2 1899-06-10 # eqbal, najmabadi, tsybulsky
+1317/3 1899-07-10 # eqbal, najmabadi, tsybulsky
+1317/4 1899-08-09 # eqbal, najmabadi, tsybulsky
+1317/5 1899-09-08 # eqbal, najmabadi, tsybulsky
+1317/6 1899-10-07 # eqbal, najmabadi, tsybulsky
+1317/7 1899-11-06 # eqbal, najmabadi, tsybulsky
+1317/8 1899-12-05 # eqbal, najmabadi, tsybulsky
+1317/9 1900-01-03 # eqbal, najmabadi, tsybulsky
+1317/10 1900-02-02 # eqbal, najmabadi, tsybulsky
+1317/11 1900-03-03 # eqbal, najmabadi, tsybulsky
+1317/12 1900-04-01 # eqbal, najmabadi, tsybulsky
+1318/1 1900-05-01 # eqbal, najmabadi, tsybulsky
+1318/2 1900-05-30 # eqbal, najmabadi, tsybulsky
+1318/3 1900-06-29 # eqbal, najmabadi, tsybulsky
+1318/4 1900-07-29 # eqbal, najmabadi, tsybulsky
+1318/5 1900-08-28 # eqbal, najmabadi, tsybulsky
+1318/6 1900-09-26 # eqbal, najmabadi, tsybulsky
+1318/7 1900-10-26 # eqbal, najmabadi, tsybulsky
+1318/8 1900-11-24 # eqbal, najmabadi, tsybulsky
+1318/9 1900-12-24 # eqbal, najmabadi, tsybulsky
+1318/10 1901-01-22 # eqbal, najmabadi, tsybulsky
+1318/11 1901-02-21 # eqbal, najmabadi, tsybulsky
+1318/12 1901-03-22 # eqbal, najmabadi, tsybulsky
+1319/1 1901-04-20 # eqbal, najmabadi, tsybulsky
+1319/2 1901-05-20 # eqbal, najmabadi, tsybulsky
+1319/3 1901-06-18 # eqbal, najmabadi, tsybulsky
+1319/4 1901-07-18 # eqbal, najmabadi, tsybulsky
+1319/5 1901-08-17 # eqbal, najmabadi, tsybulsky
+1319/6 1901-09-15 # eqbal, najmabadi, tsybulsky
+1319/7 1901-10-15 # eqbal, najmabadi, tsybulsky
+1319/8 1901-11-13 # eqbal, najmabadi, tsybulsky
+1319/9 1901-12-13 # eqbal, najmabadi, tsybulsky
+1319/10 1902-01-12 # eqbal, najmabadi, tsybulsky
+1319/11 1902-02-10 # eqbal, najmabadi, tsybulsky
+1319/12 1902-03-12 # eqbal, najmabadi, tsybulsky
+1320/1 1902-04-10 # eqbal, najmabadi, tsybulsky
+1320/2 1902-05-10 # eqbal, najmabadi, tsybulsky
+1320/3 1902-06-08 # eqbal, najmabadi, tsybulsky
+1320/4 1902-07-07 # eqbal, najmabadi, tsybulsky
+1320/5 1902-08-06 # eqbal, najmabadi, tsybulsky
+1320/6 1902-09-05 # eqbal, najmabadi, tsybulsky
+1320/7 1902-10-04 # eqbal, najmabadi, tsybulsky
+1320/8 1902-11-02 # eqbal, najmabadi, tsybulsky
+1320/9 1902-12-02 # eqbal, najmabadi, tsybulsky
+1320/10 1903-01-01 # eqbal, najmabadi, tsybulsky
+1320/11 1903-01-30 # eqbal, najmabadi, tsybulsky
+1320/12 1903-03-01 # eqbal, najmabadi, tsybulsky
+1321/1 1903-03-31 # eqbal, najmabadi, tsybulsky
+1321/2 1903-04-29 # eqbal, najmabadi, tsybulsky
+1321/3 1903-05-29 # eqbal, najmabadi, tsybulsky
+1321/4 1903-06-27 # eqbal, najmabadi, tsybulsky
+1321/5 1903-07-26 # eqbal, najmabadi, tsybulsky
+1321/6 1903-08-25 # eqbal, najmabadi, tsybulsky
+1321/7 1903-09-23 # eqbal, najmabadi, tsybulsky
+1321/8 1903-10-22 # eqbal, najmabadi, tsybulsky
+1321/9 1903-11-21 # eqbal, najmabadi, tsybulsky
+1321/10 1903-12-21 # eqbal, najmabadi, tsybulsky
+1321/11 1904-01-19 # eqbal, najmabadi, tsybulsky
+1321/12 1904-02-18 # eqbal, najmabadi, tsybulsky
+1322/1 1904-03-19 # eqbal, najmabadi, tsybulsky
+1322/2 1904-04-18 # eqbal, najmabadi, tsybulsky
+1322/3 1904-05-17 # eqbal, najmabadi, tsybulsky
+1322/4 1904-06-15 # eqbal, najmabadi, tsybulsky
+1322/5 1904-07-15 # eqbal, najmabadi, tsybulsky
+1322/6 1904-08-13 # eqbal, najmabadi, tsybulsky
+1322/7 1904-09-12 # eqbal, najmabadi, tsybulsky
+1322/8 1904-10-11 # eqbal, najmabadi, tsybulsky
+1322/9 1904-11-09 # eqbal, najmabadi, tsybulsky
+1322/10 1904-12-09 # eqbal, najmabadi, tsybulsky
+1322/11 1905-01-07 # eqbal, najmabadi, tsybulsky
+1322/12 1905-02-06 # eqbal, najmabadi, tsybulsky
+1323/1 1905-03-08 # eqbal, najmabadi, tsybulsky
+1323/2 1905-04-07 # eqbal, najmabadi, tsybulsky
+1323/3 1905-05-06 # eqbal, najmabadi, tsybulsky
+1323/4 1905-06-05 # eqbal, najmabadi, tsybulsky
+1323/5 1905-07-05 # eqbal, najmabadi, tsybulsky
+1323/6 1905-08-03 # eqbal, najmabadi, tsybulsky
+1323/7 1905-09-01 # eqbal, najmabadi, tsybulsky
+1323/8 1905-10-01 # eqbal, najmabadi, tsybulsky
+1323/9 1905-10-30 # eqbal, najmabadi, tsybulsky
+1323/10 1905-11-28 # eqbal, najmabadi, tsybulsky
+1323/11 1905-12-28 # eqbal, najmabadi, tsybulsky
+1323/12 1906-01-26 # eqbal, najmabadi, tsybulsky
+1324/1 1906-02-25 # eqbal, najmabadi, tsybulsky
+1324/2 1906-03-27 # eqbal, najmabadi, tsybulsky
+1324/3 1906-04-26 # eqbal, najmabadi, tsybulsky
+1324/4 1906-05-25 # eqbal, najmabadi, tsybulsky
+1324/5 1906-06-24 # eqbal, najmabadi, tsybulsky
+1324/6 1906-07-23 # eqbal, najmabadi, tsybulsky
+1324/7 1906-08-22 # eqbal, najmabadi, tsybulsky
+1324/8 1906-09-20 # eqbal, najmabadi, tsybulsky
+1324/9 1906-10-20 # eqbal, najmabadi, tsybulsky
+1324/10 1906-11-18 # eqbal, majles, najmabadi, tsybulsky
+1324/11 1906-12-17 # eqbal, majles, najmabadi, tsybulsky
+1324/12 1907-01-16 # eqbal, majles, najmabadi, tsybulsky
+1325/1 1907-02-14 # eqbal, najmabadi, tsybulsky
+1325/2 1907-03-16 # eqbal, najmabadi, tsybulsky
+1325/3 1907-04-15 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/4 1907-05-14 # ayine-ye-eybnama, eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/5 1907-06-13 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/6 1907-07-12 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/7 1907-08-11 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/8 1907-09-10 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/9 1907-10-09 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/10 1907-11-08 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/11 1907-12-07 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1325/12 1908-01-06 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1326/1 1908-02-04 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1326/2 1908-03-04 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1326/3 1908-04-03 # eqbal, habl-ol-matin, najmabadi, tsybulsky
+1326/4 1908-05-02 # eqbal, najmabadi, tsybulsky
+1326/5 1908-06-01 # eqbal, najmabadi, tsybulsky
+1326/6 1908-06-30 # eqbal, najmabadi, tsybulsky
+1326/7 1908-07-30 # eqbal, najmabadi, tsybulsky
+1326/8 1908-08-29 # eqbal, najmabadi, tsybulsky
+1326/9 1908-09-27 # eqbal, najmabadi, tsybulsky
+1326/10 1908-10-27 # eqbal, najmabadi, tsybulsky
+1326/11 1908-11-26 # eqbal, najmabadi, tsybulsky
+1326/12 1908-12-25 # eqbal, najmabadi, tsybulsky
+1327/1 1909-01-24 # eqbal, najmabadi, tsybulsky
+1327/2 1909-02-22 # eqbal, najmabadi, tsybulsky
+1327/3 1909-03-23 # eqbal, najmabadi, tsybulsky
+1327/4 1909-04-22 # eqbal, najmabadi, tsybulsky
+1327/5 1909-05-21 # eqbal, najmabadi, tsybulsky
+1327/6 1909-06-20 # eqbal, najmabadi, tsybulsky
+1327/7 1909-07-19 # eqbal, najmabadi, tsybulsky
+1327/8 1909-08-18 # adam-e-abolbashar, eqbal, najmabadi, tsybulsky
+1327/9 1909-09-17 # eqbal, najmabadi, tsybulsky
+1327/10 1909-10-16 # eqbal, najmabadi, tsybulsky
+1327/11 1909-11-15 # eqbal, najmabadi, tsybulsky
+1327/12 1909-12-15 # eqbal, najmabadi, tsybulsky
+1328/1 1910-01-13 # eqbal, najmabadi, tsybulsky
+1328/2 1910-02-12 # eqbal, najmabadi, tsybulsky
+1328/3 1910-03-13 # eqbal, najmabadi, tsybulsky
+1328/4 1910-04-12 # eqbal, najmabadi, tsybulsky
+1328/5 1910-05-11 # eqbal, najmabadi, tsybulsky
+1328/6 1910-06-09 # eqbal, najmabadi, tsybulsky
+1328/7 1910-07-08 # eqbal, najmabadi, tsybulsky
+1328/8 1910-08-07 # eqbal, najmabadi, tsybulsky
+1328/9 1910-09-06 # danesh, eqbal, najmabadi, tsybulsky
+1328/10 1910-10-05 # eqbal, najmabadi, tsybulsky
+1328/11 1910-11-04 # danesh, eqbal, najmabadi, tsybulsky
+1328/12 1910-12-04 # eqbal, najmabadi, tsybulsky
+1329/1 1911-01-03 # danesh, eqbal, najmabadi, tsybulsky
+1329/2 1911-02-01 # eqbal, najmabadi, tsybulsky
+1329/3 1911-03-03 # eqbal, najmabadi, tsybulsky
+1329/4 1911-04-01 # danesh, eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/5 1911-04-30 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/6 1911-05-30 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/7 1911-06-28 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/8 1911-07-27 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/9 1911-08-26 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/10 1911-09-25 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/11 1911-10-24 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1329/12 1911-11-23 # eqbal, najmabadi, tsybulsky
+1330/1 1911-12-23 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1330/2 1912-01-21 # aftab, eqbal, najmabadi, tsybulsky
+1330/3 1912-02-20 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1330/4 1912-03-21 # aftab, eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
 1330/5 1912-04-19 # najmabadi, rooznameh-ye-rasmi, tsybulsky
 1330/6 1912-05-19 # najmabadi, tsybulsky
 1330/7 1912-06-17 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/8 1912-07-16 # najmabadi, tsybulsky
-1330/9 1912-08-14 # najmabadi, tsybulsky
+1330/8 1912-07-16 # najmabadi, rooznameh-ye-rasmi, tsybulsky
+1330/9 1912-08-14 # najmabadi, rooznameh-ye-rasmi, tsybulsky
 1330/10 1912-09-13 # najmabadi, tsybulsky
 1330/11 1912-10-13 # najmabadi, tsybulsky
 1330/12 1912-11-11 # najmabadi, tsybulsky
@@ -1095,9 +1095,9 @@
 1358/6 1939-07-19 # ettelaat, najmabadi, tatbiq-e-taqavim, tsybulsky
 1358/7 1939-08-17 # ettelaat, najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
 1358/8 1939-09-15 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
-1358/9 1939-10-15 # bahar-e-iran, najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
-1358/10 1939-11-13 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
-1358/11 1939-12-13 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/9 1939-10-15 # bahar-e-iran, majalle-ye-rasmi-e-dadgostari, najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/10 1939-11-13 # majalle-ye-rasmi-e-dadgostari, najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
+1358/11 1939-12-13 # majalle-ye-rasmi-e-dadgostari, najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
 1358/12 1940-01-11 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
 1359/1 1940-02-10 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
 1359/2 1940-03-11 # najmabadi, ostovar, tatbiq-e-taqavim, tsybulsky
@@ -1134,8 +1134,8 @@
 1361/9 1942-09-13 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
 1361/10 1942-10-12 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
 1361/11 1942-11-10 # ettelaat, najmabadi, tatbiq-e-taqavim, tsybulsky
-1361/12 1942-12-10 # majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
-1362/1 1943-01-08 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
+1361/12 1942-12-10 # akhbar-e-rooz, majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
+1362/1 1943-01-08 # akhbar-e-rooz, ettelaat, majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
 1362/2 1943-02-07 # ettelaat, majalle-ye-bank-e-melli, najmabadi, tatbiq-e-taqavim, tsybulsky
 1362/3 1943-03-08 # ettelaat, najmabadi, tatbiq-e-taqavim, tsybulsky
 1362/4 1943-04-07 # ettelaat, najmabadi, tatbiq-e-taqavim, tsybulsky
