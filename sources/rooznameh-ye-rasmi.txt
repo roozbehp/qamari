@@ -17,4 +17,17 @@
 1330/8 1912-07-16 # Implied from issue of Thu 1330/8/3 AH=26[sic?] Saratan
 1330/9 1912-08-14 # Implied from issue of Thu 1330/9/2 AH=23[sic?] Asad
 
+# 1331/6 is inconsistent. Skipping.
+1331/7 1913-06-06 # Implied from issue 213, Tue 1331/7/5 AH=20 Jowza 1292 AP
+1331/8 1913-07-06 # Implied from issue 222, Tue 1331/8/10 AH=23 Saratan 1292 AP
+1331/9 1913-08-04 # Implied from issue 228, Tue 1331/9/2 AH=13 Asad 1292 AP
+1331/10 1913-09-03 # Implied from issue 239, Thu 1331/10/9 AH=19 Sonbole 1292 AP
+1331/11 1913-10-02 # Issue 244, Thu 1331/11/1 AH=9 Mizan 1292 AP
+1331/12 1913-11-01 # Implied from issue 254, Sun 1331/12/2 AH=10 Aqrab 1292 AP
+
+# For 1331/1 we only found one issue that had a typo in the year. Skipping.
+1332/2 1913-12-30 # Implied from issue 272, Tue 1332/2/8 AH=16 Jady 1292 AP
+
+1332/12 1914-10-21 # Implied from issue 339, Sun 1332/12/26 AH=24 Aqrab 1293 AP
+
 1333/7 1915-05-16 # Implied from issue of Tue 1333/7/24 AH=18 Jowza 1293[sic]
