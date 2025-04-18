@@ -28,3 +28,25 @@
 # 1269/3 is inconsistent across issues 98-101
 1269/4 1853-01-11 # Implied from issue 102, Thu 1269/4/3 AH
 1269/5 1853-02-10 # Implied from issue 106, Thu 1269/5/1 AH
+1269/6 1853-03-12 # Implied from issue 111, Thu 1269/6/6 AH
+1269/7 1853-04-10 # Implied from issue 115, Thu 1269/7/5 AH
+1269/8 1853-05-10 # Implied from issue 119, Thu 1269/7/3 AH
+1269/9 1853-06-09 # Issue 123, Thu 1269/9/1 AH
+1269/10 1853-07-08 # Implied from issue 128, 1269/10/7 AH
+
+# https://commons.wikimedia.org/wiki/File:Rvznamh-vghaye-atfaghyh-jld-2-az-shmarh-131-ta-192.pdf
+1269/11 1853-08-07 # Implied from issue 132, Thu 1269/11/5 AH
+1269/12 1853-09-05 # Implied from issue 136, Thu 1269/12/4 AH
+
+1270/1 1853-10-06 # Implied from issue 140, Thu 1270/1/2 AH
+1270/2 1853-11-03 # Issue 144, Thu 1270/2/1 AH
+1270/3 1853-12-03 # Implied from issue 149, Thu 1270/3/6 AH
+1270/4 1854-01-01 # Implied from issue 153, Thu 1270/4/5 AH
+1270/5 1854-01-30 # Implied from issue 157, Thu 1270/5/4 AH
+1270/6 1854-03-01 # Implied from issue 161, Thu 1270/6/2 AH
+1270/7 1854-03-30 # Issue 165, Thu 1270/7/1 AH
+1270/8 1854-04-29 # Implied from issue 170, Thu 1270/8/6 AH
+1270/9 1854-05-29 # Implied from issue 174, Thu 1270/9/4 AH
+1270/10 1854-06-27 # Implied from issue 178, Thu 1270/10/3 AH
+1270/11 1854-07-27 # Issue 182, Thu 1270/11/1 AH
+1270/12 1854-08-26 # Implied from issue 187, Thu 1270/12/6 AH
