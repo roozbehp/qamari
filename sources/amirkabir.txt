@@ -31,10 +31,10 @@
 1267/3 1851-01-05
 1267/4 1851-02-03
 1267/5 1851-03-05
-1267/6 1851-04-03
+# 1267/6 1851-04-03 # Commented out since it contradicts Vaqaye'-e Ettefaqie
 1267/7 1851-05-03
 1267/8 1851-06-01
 1267/9 1851-07-01
-1267/10 1851-07-31
+# 1267/10 1851-07-31 # Commented out since it contradicts Vaqaye'-e Ettefaqie
 1267/11 1851-08-29
-1267/12 1851-09-28
+# 1267/12 1851-09-28 # Commented out since it contradicts Vaqaye'-e Ettefaqie
