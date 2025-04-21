@@ -1,4 +1,5 @@
 # روزنامهٔ دولت علیهٔ ایران
+# روزنامهٔ دولتی
 1277/2 1860-08-19 # Implied from issue 472, Thu 1277/2/19 AH, Pichi Il
 1277/3 1860-09-17 # Implied from issue 474, Thu 1277/3/18 AH
 1277/4 1860-10-17 # Implied from issue 475, Thu 1277/4/2 AH
