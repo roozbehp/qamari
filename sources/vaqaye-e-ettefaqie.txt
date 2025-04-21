@@ -38,7 +38,7 @@
 1269/11 1853-08-07 # Implied from issue 132, Thu 1269/11/5 AH
 1269/12 1853-09-05 # Implied from issue 136, Thu 1269/12/4 AH
 
-1270/1 1853-10-06 # Implied from issue 140, Thu 1270/1/2 AH
+1270/1 1853-10-05 # Implied from issue 140, Thu 1270/1/2 AH
 1270/2 1853-11-03 # Issue 144, Thu 1270/2/1 AH
 1270/3 1853-12-03 # Implied from issue 149, Thu 1270/3/6 AH
 1270/4 1854-01-01 # Implied from issue 153, Thu 1270/4/5 AH

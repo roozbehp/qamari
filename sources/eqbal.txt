@@ -273,7 +273,7 @@
 1330/6 1912-05-18
 1330/7 1912-06-17
 1330/8 1912-07-16
-1330/9 1912-08-15
+# 1330/9 1912-08-15 # Commented out since it contradicts Rooznameh-ye-Rasmi and it's Ramadan, so it could have changed.
 1330/10 1912-09-13
 1330/11 1912-10-13
 1330/12 1912-11-11
@@ -292,6 +292,6 @@
 1331/12 1913-11-01
 
 1332/1 1913-11-30
-1332/2 1913-12-29
-1333/3 1914-01-28
-1333/4 1914-02-27
+# 1332/2 1913-12-29 # Commented out since it contradics 4 issues of Rooznameh-ye-Rasmi. The theory is that another calendar may have been official.
+1332/3 1914-01-28
+1332/4 1914-02-27

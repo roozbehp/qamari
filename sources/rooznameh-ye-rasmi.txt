@@ -15,7 +15,7 @@
 # 1330/6 Is inconsistent during the month so we are skipping it.
 1330/7 1912-06-17 # Implied from issue of Tue 1330/7/2 AH=28[sic?] Jowza
 1330/8 1912-07-16 # Implied from issue of Thu 1330/8/3 AH=26[sic?] Saratan
-1330/9 1912-08-14 # Implied from issue of Thu 1330/9/2 AH=23[sic?] Asad
+*1330/9 1912-08-14 # Implied from issue of Thu 1330/9/2 AH=23[sic?] Asad. Marked with an asterisk since it is different from Eqbal.
 
 # 1331/6 is inconsistent. Skipping.
 1331/7 1913-06-06 # Implied from issue 213, Tue 1331/7/5 AH=20 Jowza 1292 AP
@@ -26,7 +26,7 @@
 1331/12 1913-11-01 # Implied from issue 254, Sun 1331/12/2 AH=10 Aqrab 1292 AP
 
 # For 1331/1 we only found one issue that had a typo in the year. Skipping.
-1332/2 1913-12-30 # Implied from issue 272, Tue 1332/2/8 AH=16 Jady 1292 AP
+1332/2 1913-12-30 # Implied from issue 272, Tue 1332/2/8 AH=16 Jady 1292 AP. Consistent during the whole month, including issues 273, 274, and 278.
 
 1332/12 1914-10-21 # Implied from issue 339, Sun 1332/12/26 AH=24 Aqrab 1293 AP
 
