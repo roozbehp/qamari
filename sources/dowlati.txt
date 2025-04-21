@@ -80,3 +80,59 @@
 1283/5 1866-09-11 # Implied from issue 593, Thu 1283/5/3 AH
 1283/6 1866-10-11 # Issue 594, Thu 1283/6/1 AH
 1283/7 1866-11-09 # Implied from issue 595, Thu 1283/7/14 AH
+1283/8 1866-12-09 # Implied from issue 596, Thu 1283/8/19 AH
+1283/9 1867-01-08 # Implied from issue 597, Thu 1283/9/17 AH
+1283/10 1867-02-07 # Implied from issue 598, Thu 1283/10/8 AH
+1283/11 1867-03-08 # Implied from issue 600, Thu 1283/11/7 AH
+1283/12 1867-04-07 # Implied from issue 601, Thu 1283/12/5 AH
+
+1284/1 1867-05-06 # Implied from issue 602, Thu 1284/1/4 AH
+1284/2 1867-06-04 # Implied from issue 603, Thu 1284/2/3 AH
+1284/3 1867-07-04 # Issue 605, Thu 1284/3/1 AH
+1284/4 1867-08-02 # Implied from issue 607, Thu 1284/4/28 AH
+# No issue in 1284/5
+1284/6 1867-09-30 # Implied from issue 608, Thu 1284/6/4 AH
+1284/7 1867-10-29 # Implied from issue 610, Thu 1284/7/10 AH
+1284/8 1867-11-28 # Implied from issue 611, Thu 1284/8/8 AH
+1284/9 1867-12-28 # Implied from issue 613, Thu 1284/9/20 AH
+1284/10 1868-01-27 # Implied from issue 614, Thu 1284/10/25 AH
+1284/11 1868-02-25 # Implied from issue 615, Thu 1284/11/10 AH
+1284/12 1868-03-26 # Issue 616, Thu 1284/12/1 AH
+
+1285/1 1868-04-25 # Implied from issue 618, Thu 1285/1/13 AH
+1285/2 1868-05-24 # Implied from issue 619, Thu 1285/2/26 AH
+1285/3 1868-06-22 # Implied from issue 620, Thu 1285/3/18 AH
+# No issue in 1285/4
+1285/5 1868-08-20 # Implied from issue 621, Thu 1285/5/22 AH
+1285/6 1868-09-18 # Implied from issue 622, Thu 1285/6/7 AH
+1285/8 1868-11-16 # Implied from issue 624, Thu 1285/8/11 AH
+1285/9 1868-12-16 # Implied from issue 626, Thu 1285/9/16 AH
+1285/10 1869-01-15 # Implied from issue 627, Thu 1285/10/7
+# No issue in 1285/11
+1285/12 1869-03-15 # Implied from issue 629, Thu 1285/12/4 AH
+
+1286/1 1869-04-14 # Implied from issue 631, Thu 1286/1/23 AH
+1286/2 1869-05-13 # Implied from issue 632, Thu 1286/2/29 AH
+# No issue in 1286/3
+1286/4 1869-07-11 # Implied from issue 633, Thu 1286/4/12 AH
+# No issue in 1286/5
+1286/6 1869-09-08 # Implied from issue 634, Thu 1286/6/2 AH
+1286/7 1869-10-07 # Implied from issue 635, Thu 1286/7/8 AH
+1286/8 1869-11-06 # Implied from issue 636, Thu 1286/8/13 AH
+1286/9 1869-12-05 # Implied from issue 637, Thu 1286/9/5 AH
+1286/10 1870-01-04 # Implied from issue 638, Thu 1286/10/3 AH
+1286/11 1870-02-02 # Implied from issue 639, Thu 1286/11/2 AH
+1286/12 1870-03-04 # Implied from issue 640, Thu 1286/12/14 AH
+
+1287/1 1870-04-03 # Implied from issue 641, Thu 1287/1/26 AH
+# No issue in 1287/2
+1287/3 1870-06-01 # Implied from issue 642, Thu 1287/3/16 AH
+1287/4 1870-07-01 # Implied from issue 643, Thu 1287/4/14 AH
+1287/5 1870-07-30 # Implied from issue 644, Thu 1287/5/27 AH
+# No issue in 1287/6
+1287/7 1870-09-27 # Implied from issue 645, Thu 1287/7/3 AH
+1287/8 1870-10-26 # Implied from issue 646, Thu 1287/8/23 AH
+1287/9 1870-11-25 # Implied from issue 647, Thu 1287/9/14 AH
+1287/10 1870-12-24 # Implied from issue 648, Thu 1287/10/27 AH
+1287/11 1871-01-23 # Implied from issue 649, Thu 1287/11/11 AH
+1287/12 1871-02-21 # Implied from issue 650, Thu 1287/12/10 AH
