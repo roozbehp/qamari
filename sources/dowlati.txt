@@ -105,6 +105,7 @@
 # No issue in 1285/4
 1285/5 1868-08-20 # Implied from issue 621, Thu 1285/5/22 AH
 1285/6 1868-09-18 # Implied from issue 622, Thu 1285/6/7 AH
+1285/7 1868-10-18 # Implied from issue 623, Thu 1285/7/26 AH
 1285/8 1868-11-16 # Implied from issue 624, Thu 1285/8/11 AH
 1285/9 1868-12-16 # Implied from issue 626, Thu 1285/9/16 AH
 1285/10 1869-01-15 # Implied from issue 627, Thu 1285/10/7
