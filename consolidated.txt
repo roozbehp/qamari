@@ -51,25 +51,25 @@
 1269/3 1852-12-13 # najmabadi
 1269/4 1853-01-11 # najmabadi, vaqaye-e-ettefaqie
 1269/5 1853-02-10 # najmabadi, vaqaye-e-ettefaqie
-1269/6 1853-03-12 # najmabadi
-1269/7 1853-04-10 # najmabadi
-1269/8 1853-05-10 # najmabadi
-1269/9 1853-06-09 # najmabadi
-1269/10 1853-07-08 # najmabadi
-1269/11 1853-08-07 # najmabadi
-1269/12 1853-09-05 # najmabadi
-1270/1 1853-10-05 # najmabadi
-1270/2 1853-11-03 # najmabadi
-1270/3 1853-12-03 # najmabadi
-1270/4 1854-01-01 # najmabadi
-1270/5 1854-01-30 # najmabadi
-1270/6 1854-03-01 # najmabadi
-1270/7 1854-03-30 # najmabadi
-1270/8 1854-04-29 # najmabadi
-1270/9 1854-05-29 # najmabadi
-1270/10 1854-06-27 # najmabadi
-1270/11 1854-07-27 # najmabadi
-1270/12 1854-08-26 # najmabadi
+1269/6 1853-03-12 # najmabadi, vaqaye-e-ettefaqie
+1269/7 1853-04-10 # najmabadi, vaqaye-e-ettefaqie
+1269/8 1853-05-10 # najmabadi, vaqaye-e-ettefaqie
+1269/9 1853-06-09 # najmabadi, vaqaye-e-ettefaqie
+1269/10 1853-07-08 # najmabadi, vaqaye-e-ettefaqie
+1269/11 1853-08-07 # najmabadi, vaqaye-e-ettefaqie
+1269/12 1853-09-05 # najmabadi, vaqaye-e-ettefaqie
+1270/1 1853-10-05 # najmabadi, vaqaye-e-ettefaqie
+1270/2 1853-11-03 # najmabadi, vaqaye-e-ettefaqie
+1270/3 1853-12-03 # najmabadi, vaqaye-e-ettefaqie
+1270/4 1854-01-01 # najmabadi, vaqaye-e-ettefaqie
+1270/5 1854-01-30 # najmabadi, vaqaye-e-ettefaqie
+1270/6 1854-03-01 # najmabadi, vaqaye-e-ettefaqie
+1270/7 1854-03-30 # najmabadi, vaqaye-e-ettefaqie
+1270/8 1854-04-29 # najmabadi, vaqaye-e-ettefaqie
+1270/9 1854-05-29 # najmabadi, vaqaye-e-ettefaqie
+1270/10 1854-06-27 # najmabadi, vaqaye-e-ettefaqie
+1270/11 1854-07-27 # najmabadi, vaqaye-e-ettefaqie
+1270/12 1854-08-26 # najmabadi, vaqaye-e-ettefaqie
 1271/1 1854-09-24 # najmabadi
 1271/2 1854-10-24 # najmabadi
 1271/3 1854-11-22 # najmabadi
@@ -143,137 +143,137 @@
 1276/11 1860-05-22 # najmabadi, tsybulsky
 1276/12 1860-06-21 # najmabadi, tsybulsky
 1277/1 1860-07-20 # najmabadi, tsybulsky
-1277/2 1860-08-19 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/3 1860-09-17 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/4 1860-10-17 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/5 1860-11-15 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/6 1860-12-14 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/7 1861-01-13 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/8 1861-02-12 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1277/9 1861-03-13 # dowlati-e-mosavvar, najmabadi, tsybulsky
+1277/2 1860-08-19 # dowlati, najmabadi, tsybulsky
+1277/3 1860-09-17 # dowlati, najmabadi, tsybulsky
+1277/4 1860-10-17 # dowlati, najmabadi, tsybulsky
+1277/5 1860-11-15 # dowlati, najmabadi, tsybulsky
+1277/6 1860-12-14 # dowlati, najmabadi, tsybulsky
+1277/7 1861-01-13 # dowlati, najmabadi, tsybulsky
+1277/8 1861-02-12 # dowlati, najmabadi, tsybulsky
+1277/9 1861-03-13 # dowlati, najmabadi, tsybulsky
 1277/10 1861-04-12 # najmabadi, tsybulsky
 1277/11 1861-05-12 # najmabadi, tsybulsky
 1277/12 1861-06-10 # najmabadi, tsybulsky
 1278/1 1861-07-10 # najmabadi, tsybulsky
 1278/2 1861-08-08 # najmabadi, tsybulsky
 1278/3 1861-09-07 # najmabadi, tsybulsky
-1278/4 1861-10-06 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/5 1861-11-05 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/6 1861-12-04 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/7 1862-01-02 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/8 1862-02-01 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/9 1862-03-02 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/10 1862-04-01 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/11 1862-05-01 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1278/12 1862-05-30 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/1 1862-06-29 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/2 1862-07-29 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/3 1862-08-28 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/4 1862-09-26 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/5 1862-10-25 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/6 1862-11-24 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/7 1862-12-23 # dowlati-e-mosavvar, najmabadi, tsybulsky
+1278/4 1861-10-06 # dowlati, najmabadi, tsybulsky
+1278/5 1861-11-05 # dowlati, najmabadi, tsybulsky
+1278/6 1861-12-04 # dowlati, najmabadi, tsybulsky
+1278/7 1862-01-02 # dowlati, najmabadi, tsybulsky
+1278/8 1862-02-01 # dowlati, najmabadi, tsybulsky
+1278/9 1862-03-02 # dowlati, najmabadi, tsybulsky
+1278/10 1862-04-01 # dowlati, najmabadi, tsybulsky
+1278/11 1862-05-01 # dowlati, najmabadi, tsybulsky
+1278/12 1862-05-30 # dowlati, najmabadi, tsybulsky
+1279/1 1862-06-29 # dowlati, najmabadi, tsybulsky
+1279/2 1862-07-29 # dowlati, najmabadi, tsybulsky
+1279/3 1862-08-28 # dowlati, najmabadi, tsybulsky
+1279/4 1862-09-26 # dowlati, najmabadi, tsybulsky
+1279/5 1862-10-25 # dowlati, najmabadi, tsybulsky
+1279/6 1862-11-24 # dowlati, najmabadi, tsybulsky
+1279/7 1862-12-23 # dowlati, najmabadi, tsybulsky
 1279/8 1863-01-21 # najmabadi, tsybulsky
-1279/9 1863-02-20 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/10 1863-03-21 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/11 1863-04-20 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1279/12 1863-05-19 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/1 1863-06-18 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/2 1863-07-18 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/3 1863-08-17 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/4 1863-09-16 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/5 1863-10-15 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/6 1863-11-13 # dowlati-e-mosavvar, najmabadi, tsybulsky
-1280/7 1863-12-13 # najmabadi, tsybulsky
-1280/8 1864-01-11 # najmabadi, tsybulsky
-1280/9 1864-02-09 # najmabadi, tsybulsky
-1280/10 1864-03-10 # najmabadi, tsybulsky
-1280/11 1864-04-08 # najmabadi, tsybulsky
-1280/12 1864-05-08 # najmabadi, tsybulsky
-1281/1 1864-06-06 # najmabadi, tsybulsky
-1281/2 1864-07-06 # najmabadi, tsybulsky
-1281/3 1864-08-05 # najmabadi, tsybulsky
+1279/9 1863-02-20 # dowlati, najmabadi, tsybulsky
+1279/10 1863-03-21 # dowlati, najmabadi, tsybulsky
+1279/11 1863-04-20 # dowlati, najmabadi, tsybulsky
+1279/12 1863-05-19 # dowlati, najmabadi, tsybulsky
+1280/1 1863-06-18 # dowlati, najmabadi, tsybulsky
+1280/2 1863-07-18 # dowlati, najmabadi, tsybulsky
+1280/3 1863-08-17 # dowlati, najmabadi, tsybulsky
+1280/4 1863-09-16 # dowlati, najmabadi, tsybulsky
+1280/5 1863-10-15 # dowlati, najmabadi, tsybulsky
+1280/6 1863-11-13 # dowlati, najmabadi, tsybulsky
+1280/7 1863-12-13 # dowlati, najmabadi, tsybulsky
+1280/8 1864-01-11 # dowlati, najmabadi, tsybulsky
+1280/9 1864-02-09 # dowlati, najmabadi, tsybulsky
+1280/10 1864-03-10 # dowlati, najmabadi, tsybulsky
+1280/11 1864-04-08 # dowlati, najmabadi, tsybulsky
+1280/12 1864-05-08 # dowlati, najmabadi, tsybulsky
+1281/1 1864-06-06 # dowlati, najmabadi, tsybulsky
+1281/2 1864-07-06 # dowlati, najmabadi, tsybulsky
+1281/3 1864-08-05 # dowlati, najmabadi, tsybulsky
 1281/4 1864-09-04 # najmabadi, tsybulsky
-1281/5 1864-10-03 # najmabadi, tsybulsky
-1281/6 1864-11-02 # najmabadi, tsybulsky
+1281/5 1864-10-03 # dowlati, najmabadi, tsybulsky
+1281/6 1864-11-02 # dowlati, najmabadi, tsybulsky
 1281/7 1864-12-01 # najmabadi, tsybulsky
-1281/8 1864-12-31 # najmabadi, tsybulsky
-1281/9 1865-01-29 # najmabadi, tsybulsky
+1281/8 1864-12-31 # dowlati, najmabadi, tsybulsky
+1281/9 1865-01-29 # dowlati, najmabadi, tsybulsky
 1281/10 1865-02-27 # najmabadi, tsybulsky
-1281/11 1865-03-29 # najmabadi, tsybulsky
-1281/12 1865-04-27 # najmabadi, tsybulsky
-1282/1 1865-05-27 # najmabadi, tsybulsky
-1282/2 1865-06-25 # najmabadi, tsybulsky
-1282/3 1865-07-25 # najmabadi, tsybulsky
-1282/4 1865-08-24 # najmabadi, tsybulsky
-1282/5 1865-09-22 # najmabadi, tsybulsky
-1282/6 1865-10-22 # najmabadi, tsybulsky
-1282/7 1865-11-20 # najmabadi, tsybulsky
-1282/8 1865-12-20 # najmabadi, tsybulsky
-1282/9 1866-01-19 # najmabadi, tsybulsky
-1282/10 1866-02-17 # najmabadi, tsybulsky
-1282/11 1866-03-19 # najmabadi, tsybulsky
-1282/12 1866-04-17 # najmabadi, tsybulsky
-1283/1 1866-05-16 # najmabadi, tsybulsky
-1283/2 1866-06-15 # najmabadi, tsybulsky
-1283/3 1866-07-14 # najmabadi, tsybulsky
-1283/4 1866-08-13 # najmabadi, tsybulsky
-1283/5 1866-09-11 # najmabadi, tsybulsky
-1283/6 1866-10-11 # najmabadi, tsybulsky
-1283/7 1866-11-09 # najmabadi, tsybulsky
-1283/8 1866-12-09 # najmabadi, tsybulsky
-1283/9 1867-01-08 # najmabadi, tsybulsky
-1283/10 1867-02-07 # najmabadi, tsybulsky
-1283/11 1867-03-08 # najmabadi, tsybulsky
-1283/12 1867-04-07 # najmabadi, tsybulsky
-1284/1 1867-05-06 # najmabadi, tsybulsky
-1284/2 1867-06-04 # najmabadi, tsybulsky
-1284/3 1867-07-04 # najmabadi, tsybulsky
-1284/4 1867-08-02 # najmabadi, tsybulsky
+1281/11 1865-03-29 # dowlati, najmabadi, tsybulsky
+1281/12 1865-04-27 # dowlati, najmabadi, tsybulsky
+1282/1 1865-05-27 # dowlati, najmabadi, tsybulsky
+1282/2 1865-06-25 # dowlati, najmabadi, tsybulsky
+1282/3 1865-07-25 # dowlati, najmabadi, tsybulsky
+1282/4 1865-08-24 # dowlati, najmabadi, tsybulsky
+1282/5 1865-09-22 # dowlati, najmabadi, tsybulsky
+1282/6 1865-10-22 # dowlati, najmabadi, tsybulsky
+1282/7 1865-11-20 # dowlati, najmabadi, tsybulsky
+1282/8 1865-12-20 # dowlati, najmabadi, tsybulsky
+1282/9 1866-01-19 # dowlati, najmabadi, tsybulsky
+1282/10 1866-02-17 # dowlati, najmabadi, tsybulsky
+1282/11 1866-03-19 # dowlati, najmabadi, tsybulsky
+1282/12 1866-04-17 # dowlati, najmabadi, tsybulsky
+1283/1 1866-05-16 # dowlati, najmabadi, tsybulsky
+1283/2 1866-06-15 # dowlati, najmabadi, tsybulsky
+1283/3 1866-07-14 # dowlati, najmabadi, tsybulsky
+1283/4 1866-08-12 # dowlati
+1283/5 1866-09-11 # dowlati, najmabadi, tsybulsky
+1283/6 1866-10-11 # dowlati, najmabadi, tsybulsky
+1283/7 1866-11-09 # dowlati, najmabadi, tsybulsky
+1283/8 1866-12-09 # dowlati, najmabadi, tsybulsky
+1283/9 1867-01-08 # dowlati, najmabadi, tsybulsky
+1283/10 1867-02-07 # dowlati, najmabadi, tsybulsky
+1283/11 1867-03-08 # dowlati, najmabadi, tsybulsky
+1283/12 1867-04-07 # dowlati, najmabadi, tsybulsky
+1284/1 1867-05-06 # dowlati, najmabadi, tsybulsky
+1284/2 1867-06-04 # dowlati, najmabadi, tsybulsky
+1284/3 1867-07-04 # dowlati, najmabadi, tsybulsky
+1284/4 1867-08-02 # dowlati, najmabadi, tsybulsky
 1284/5 1867-09-01 # najmabadi, tsybulsky
-1284/6 1867-09-30 # najmabadi, tsybulsky
-1284/7 1867-10-29 # najmabadi, tsybulsky
-1284/8 1867-11-28 # najmabadi, tsybulsky
-1284/9 1867-12-28 # najmabadi, tsybulsky
-1284/10 1868-01-27 # najmabadi, tsybulsky
-1284/11 1868-02-25 # najmabadi, tsybulsky
-1284/12 1868-03-26 # najmabadi, tsybulsky
-1285/1 1868-04-25 # najmabadi, tsybulsky
-1285/2 1868-05-24 # najmabadi, tsybulsky
-1285/3 1868-06-22 # najmabadi, tsybulsky
+1284/6 1867-09-30 # dowlati, najmabadi, tsybulsky
+1284/7 1867-10-29 # dowlati, najmabadi, tsybulsky
+1284/8 1867-11-28 # dowlati, najmabadi, tsybulsky
+1284/9 1867-12-28 # dowlati, najmabadi, tsybulsky
+1284/10 1868-01-27 # dowlati, najmabadi, tsybulsky
+1284/11 1868-02-25 # dowlati, najmabadi, tsybulsky
+1284/12 1868-03-26 # dowlati, najmabadi, tsybulsky
+1285/1 1868-04-25 # dowlati, najmabadi, tsybulsky
+1285/2 1868-05-24 # dowlati, najmabadi, tsybulsky
+1285/3 1868-06-22 # dowlati, najmabadi, tsybulsky
 1285/4 1868-07-22 # najmabadi, tsybulsky
-1285/5 1868-08-20 # najmabadi, tsybulsky
-1285/6 1868-09-18 # najmabadi, tsybulsky
+1285/5 1868-08-20 # dowlati, najmabadi, tsybulsky
+1285/6 1868-09-18 # dowlati, najmabadi, tsybulsky
 1285/7 1868-10-18 # najmabadi, tsybulsky
-1285/8 1868-11-16 # najmabadi, tsybulsky
-1285/9 1868-12-16 # najmabadi, tsybulsky
-1285/10 1869-01-15 # najmabadi, tsybulsky
+1285/8 1868-11-16 # dowlati, najmabadi, tsybulsky
+1285/9 1868-12-16 # dowlati, najmabadi, tsybulsky
+1285/10 1869-01-15 # dowlati, najmabadi, tsybulsky
 1285/11 1869-02-13 # najmabadi, tsybulsky
-1285/12 1869-03-15 # najmabadi, tsybulsky
-1286/1 1869-04-14 # najmabadi, tsybulsky
-1286/2 1869-05-13 # najmabadi, tsybulsky
+1285/12 1869-03-15 # dowlati, najmabadi, tsybulsky
+1286/1 1869-04-14 # dowlati, najmabadi, tsybulsky
+1286/2 1869-05-13 # dowlati, najmabadi, tsybulsky
 1286/3 1869-06-12 # najmabadi, tsybulsky
-1286/4 1869-07-11 # najmabadi, tsybulsky
+1286/4 1869-07-11 # dowlati, najmabadi, tsybulsky
 1286/5 1869-08-10 # najmabadi, tsybulsky
-1286/6 1869-09-08 # najmabadi, tsybulsky
-1286/7 1869-10-07 # najmabadi, tsybulsky
-1286/8 1869-11-06 # najmabadi, tsybulsky
-1286/9 1869-12-05 # najmabadi, tsybulsky
-1286/10 1870-01-04 # najmabadi, tsybulsky
-1286/11 1870-02-02 # najmabadi, tsybulsky
-1286/12 1870-03-04 # najmabadi, tsybulsky
-1287/1 1870-04-03 # najmabadi, tsybulsky
+1286/6 1869-09-08 # dowlati, najmabadi, tsybulsky
+1286/7 1869-10-07 # dowlati, najmabadi, tsybulsky
+1286/8 1869-11-06 # dowlati, najmabadi, tsybulsky
+1286/9 1869-12-05 # dowlati, najmabadi, tsybulsky
+1286/10 1870-01-04 # dowlati, najmabadi, tsybulsky
+1286/11 1870-02-02 # dowlati, najmabadi, tsybulsky
+1286/12 1870-03-04 # dowlati, najmabadi, tsybulsky
+1287/1 1870-04-03 # dowlati, najmabadi, tsybulsky
 1287/2 1870-05-03 # najmabadi, tsybulsky
-1287/3 1870-06-01 # najmabadi, tsybulsky
-1287/4 1870-07-01 # najmabadi, tsybulsky
-1287/5 1870-07-30 # najmabadi, tsybulsky
+1287/3 1870-06-01 # dowlati, najmabadi, tsybulsky
+1287/4 1870-07-01 # dowlati, najmabadi, tsybulsky
+1287/5 1870-07-30 # dowlati, najmabadi, tsybulsky
 1287/6 1870-08-28 # najmabadi, tsybulsky
-1287/7 1870-09-27 # najmabadi, tsybulsky
-1287/8 1870-10-26 # najmabadi, tsybulsky
-1287/9 1870-11-25 # najmabadi, tsybulsky
-1287/10 1870-12-24 # najmabadi, tsybulsky
-1287/11 1871-01-23 # najmabadi, tsybulsky
-1287/12 1871-02-21 # najmabadi, tsybulsky
+1287/7 1870-09-27 # dowlati, najmabadi, tsybulsky
+1287/8 1870-10-26 # dowlati, najmabadi, tsybulsky
+1287/9 1870-11-25 # dowlati, najmabadi, tsybulsky
+1287/10 1870-12-24 # dowlati, najmabadi, tsybulsky
+1287/11 1871-01-23 # dowlati, najmabadi, tsybulsky
+1287/12 1871-02-21 # dowlati, najmabadi, tsybulsky
 1288/1 1871-03-23 # najmabadi, tsybulsky
 1288/2 1871-04-22 # najmabadi, tsybulsky
 1288/3 1871-05-21 # najmabadi, tsybulsky
@@ -782,30 +782,30 @@
 1330/2 1912-01-21 # aftab, eqbal, najmabadi, tsybulsky
 1330/3 1912-02-20 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
 1330/4 1912-03-21 # aftab, eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/5 1912-04-19 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/6 1912-05-19 # najmabadi, tsybulsky
-1330/7 1912-06-17 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/8 1912-07-16 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/9 1912-08-14 # najmabadi, rooznameh-ye-rasmi, tsybulsky
-1330/10 1912-09-13 # najmabadi, tsybulsky
-1330/11 1912-10-13 # najmabadi, tsybulsky
-1330/12 1912-11-11 # najmabadi, tsybulsky
-1331/1 1912-12-11 # najmabadi, tsybulsky
-1331/2 1913-01-09 # najmabadi, tsybulsky
-1331/3 1913-02-08 # najmabadi, tsybulsky
-1331/4 1913-03-10 # najmabadi, tsybulsky
-1331/5 1913-04-09 # najmabadi, tsybulsky
-1331/6 1913-05-08 # najmabadi, tsybulsky
-1331/7 1913-06-06 # najmabadi, tsybulsky
-1331/8 1913-07-06 # najmabadi, tsybulsky
-1331/9 1913-08-04 # najmabadi, tsybulsky
-1331/10 1913-09-03 # najmabadi, tsybulsky
-1331/11 1913-10-02 # najmabadi, tsybulsky
-1331/12 1913-11-01 # najmabadi, tsybulsky
-1332/1 1913-11-30 # najmabadi, tsybulsky
-1332/2 1913-12-30 # najmabadi, tsybulsky
-1332/3 1914-01-28 # najmabadi, tsybulsky
-1332/4 1914-02-27 # najmabadi, tsybulsky
+1330/5 1912-04-19 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1330/6 1912-05-18 # eqbal
+1330/7 1912-06-17 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1330/8 1912-07-16 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+*1330/9 1912-08-14 # najmabadi, rooznameh-ye-rasmi, tsybulsky
+1330/10 1912-09-13 # eqbal, najmabadi, tsybulsky
+1330/11 1912-10-13 # eqbal, najmabadi, tsybulsky
+1330/12 1912-11-11 # eqbal, najmabadi, tsybulsky
+1331/1 1912-12-11 # eqbal, najmabadi, tsybulsky
+1331/2 1913-01-09 # eqbal, najmabadi, tsybulsky
+1331/3 1913-02-08 # eqbal, najmabadi, tsybulsky
+1331/4 1913-03-10 # eqbal, najmabadi, tsybulsky
+1331/5 1913-04-08 # eqbal
+1331/6 1913-05-08 # eqbal, najmabadi, tsybulsky
+1331/7 1913-06-06 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1331/8 1913-07-06 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1331/9 1913-08-04 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1331/10 1913-09-03 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1331/11 1913-10-02 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1331/12 1913-11-01 # eqbal, najmabadi, rooznameh-ye-rasmi, tsybulsky
+1332/1 1913-11-30 # eqbal, najmabadi, tsybulsky
+1332/2 1913-12-30 # najmabadi, rooznameh-ye-rasmi, tsybulsky
+1332/3 1914-01-28 # eqbal, najmabadi, tsybulsky
+1332/4 1914-02-27 # eqbal, najmabadi, tsybulsky
 1332/5 1914-03-29 # najmabadi, tsybulsky
 1332/6 1914-04-27 # najmabadi, tsybulsky
 1332/7 1914-05-27 # najmabadi, tsybulsky
@@ -813,7 +813,7 @@
 1332/9 1914-07-25 # najmabadi, tsybulsky
 1332/10 1914-08-23 # najmabadi, tsybulsky
 1332/11 1914-09-22 # najmabadi, tsybulsky
-1332/12 1914-10-21 # najmabadi, tsybulsky
+1332/12 1914-10-21 # najmabadi, rooznameh-ye-rasmi, tsybulsky
 1333/1 1914-11-20 # najmabadi, tsybulsky
 1333/2 1914-12-19 # najmabadi, tsybulsky
 1333/3 1915-01-17 # najmabadi, tsybulsky
