@@ -39,3 +39,43 @@
 1280/4 1863-09-16 # Implied from issue 548, Thu 1280/4/16 AH
 1280/5 1863-10-15 # Implied from issue 549, Thu 1280/5/8 AH
 1280/6 1863-11-13 # Implied from issue 550, Thu 1280/6/14 AH
+1280/7 1863-12-13 # Implied from issue 552, Thu 1280/7/12 AH
+1280/8 1864-01-11 # Implied from issue 554, Thu 1280/8/25 AH
+1280/9 1864-02-09 # Implied from issue 555, Thu 1280/9/10 AH
+1280/10 1864-03-10 # Implied from issue 556, Thu 1280/10/8 AH
+1280/11 1864-04-08 # Implied from issue 558, Thu 1280/11/21 AH
+1280/12 1864-05-08 # Implied from issue 559, Thu 1280/12/26 AH
+
+1281/1 1864-06-06 # Implied from issue 560, Thu 1281/1/4 AH
+1281/2 1864-07-06 # Implied from issue 561, Thu 1281/2/23 AH
+1281/3 1864-08-05 # Implied from issue 563, Thu 1281/3/28 AH
+# No issue in 1281/4
+1281/5 1864-10-03 # Implied from issue 564, Thu 1281/5/25 AH
+1281/6 1864-11-02 # Implied from issue 565, Thu 1281/6/16 AH
+# No issue in 1281/7
+1281/8 1864-12-31 # Implied from issue 566, Thu 1281/8/13 AH
+1281/9 1865-01-29 # Implied from issue 567, Thu 1281/9/12 AH
+# No issue in 1281/10
+1281/11 1865-03-29 # Implied from issue 568, Thu 1281/11/9 AH
+1281/12 1865-04-27 # Issue 569, Thu 1281/12/1 AH
+
+1282/1 1865-05-27 # Implied from issue 572, Thu 1282/1/13 AH
+1282/2 1865-06-25 # Implied from issue 573, Thu 1282/2/12 AH
+1282/3 1865-07-25 # Implied from issue 574, Thu 1282/3/17 AH
+1282/4 1865-08-24 # Implied from issue 575, Thu 1282/4/15 AH
+1282/5 1865-09-22 # Implied from issue 576, Thu 1282/5/28 AH
+1282/6 1865-10-22 # Implied from issue 577, Thu 1282/6/12 AH
+1282/7 1865-11-20 # Implied from issue 578, Thu 1282/7/4 AH
+1282/8 1865-12-20 # Implied from issue 580, Thu 1282/8/9 AH
+1282/9 1866-01-19 # Implied from issue 582, Thu 1282/9/21 AH
+1282/10 1866-02-17 # Implied from issue 583, Thu 1282/10/6 AH
+1282/11 1866-03-19 # Implied from issue 585, Thu 1282/11/11 AH
+1282/12 1866-04-17 # Implied from issue 587, Thu 1282/12/24 AH
+
+1283/1 1866-05-16 # Implied from issue 588, Thu 1283/1/23 AH
+1283/2 1866-06-15 # Implied from issue 589, Thu 1283/2/21 AH
+1283/3 1866-07-14 # Implied from issue 591, Thu 1283/3/6 AH
+1283/4 1866-08-12 # Implied from issue 592, Thu 1283/4/5 AH
+1283/5 1866-09-11 # Implied from issue 593, Thu 1283/5/3 AH
+1283/6 1866-10-11 # Issue 594, Thu 1283/6/1 AH
+1283/7 1866-11-09 # Implied from issue 595, Thu 1283/7/14 AH
